@@ -3,7 +3,7 @@ const path = require('path');
 const collectionList = require('../collectionList.json');
 
 const saveImage = async (items) => {
-    const dir = path.join(__dirname, "..", "..", "public");
+    const dir = path.join(__dirname, "..", "..", "docs");
     
     // Create folders for each collection
     for (const folder of collectionList) {
@@ -14,13 +14,30 @@ const saveImage = async (items) => {
         }
     }
 
-    // Download images
-    for (const card of items) {
+    const cardsToDownload = items.reduce((acc, curItem) => {
+        if (curItem.type === "Leader") {
+            return [
+                ...acc,
+                curItem,
+                {
+                    ...curItem,
+                    isBackSide: true
+                }
+            ]
+        }
+
+        return [
+            ...acc,
+            curItem
+        ];
+    }, []);
+
+    for (const card of cardsToDownload) {
         const collection = card.id.split('-')[0];
-        const filePath = path.join(dir, collection, `${card.id}.${card.isToken ? 'webp' : 'webp'}`);
+        const filePath = path.join(dir, collection, `${card.id}${card.isBackSide ? '-b' : ''}.${card.isToken ? 'webp' : 'webp'}`);
         if (!fs.existsSync(filePath)) {
             try {
-                const response = await fetch(`https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/${card.id}.webp`);
+                const response = await fetch(`https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/${card.id}${card.isBackSide ? '_b' : ''}.webp`);
                 if (!response.ok) throw new Error(`Failed to fetch image: ${card.imageUrl}`);
                 const arrayBuffer = await response.arrayBuffer();
                 const buffer = Buffer.from(arrayBuffer);

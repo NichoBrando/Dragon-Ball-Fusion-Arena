@@ -13,7 +13,7 @@ const generateCardList = async () => {
         async collectionName => {
             const cards = await getCollection(collectionName);
 
-            const treatedCards = transformCardData(cards);
+            const treatedCards = transformCardData(cards, collectionName);
             
             await saveImage(treatedCards);
 
@@ -35,7 +35,7 @@ const generateCardList = async () => {
         };
     }, {});
 
-    await writeFileSync(path.join(__dirname, "..", "public", "fusionWorldCardList.json"), JSON.stringify(groupedCards));
+    await writeFileSync(path.join(__dirname, "..", "docs", "fusionWorldCardList.json"), JSON.stringify(groupedCards));
 };
 
 generateCardList().then(() => {
