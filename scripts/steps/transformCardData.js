@@ -51,7 +51,8 @@ const transformCardData = (items) => {
             "cost": frontCost,
             "power": frontPower,
             "combo": frontCombo,
-            "color": item.card_color
+            "color": item.card_color,
+            variants: (item.variants || []).map(curVariant => curVariant.card_number).filter(Boolean)
         };
 
         if (data.type === 'Leader') {
@@ -71,7 +72,46 @@ const transformCardData = (items) => {
         return data;
     });
 
-    return itemList;
+    const data = itemList.reduce((acc, curItem) => {
+        if (curItem.variants || [].length) {
+            return [
+                ...acc,
+                curItem,
+                ...curItem.variants.map(curVariant => {
+                    const collectionName = curVariant.split('-')[0];
+
+                    const data = {
+                        ...curItem,
+                        id: curVariant,
+                        face: {
+                            front: {
+                                ...curItem.face.front,
+                                image: `https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/${collectionName}/${curVariant}.webp`
+                            }
+                        }
+                    };
+
+                    if (data.type === 'Leader') {
+                        data.face.back = {
+                            ...curItem.face.back,
+                            image: `https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/${collectionName}/${curVariant}-b.webp`
+                        }
+                    }
+
+                    return data;
+                })
+            ];
+        }
+
+        return [
+            ...acc,
+            curItem
+        ]
+    }, []);
+
+    console.log(data);
+
+    return data;
 }
 
 module.exports = transformCardData;
