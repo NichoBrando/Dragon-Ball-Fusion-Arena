@@ -32,7 +32,7 @@ const saveImage = async (items) => {
         ];
     }, []);
 
-    for (const card of cardsToDownload) {
+    for (const card of cardsToDownload) {        
         const collection = card.id.split('-')[0];
         const filePath = path.join(dir, collection, `${card.id}${card.isBackSide ? '-b' : ''}.${card.isToken ? 'webp' : 'webp'}`);
         if (!fs.existsSync(filePath)) {

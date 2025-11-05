@@ -22,8 +22,7 @@ const desiredResponse = {
 
 const transformCardData = (items, collectionName) => {
     const itemList = items.map(item => {
-        let correctCardType = item.card_type.toLowerCase();
-        correctCardType[0] = item.card_type[0];
+        item.card_type = item.card_type.charAt(0).toUpperCase() + item.card_type.slice(1).toLowerCase();
 
         const frontPower = item.card_type !== "Extra" ? Number(item.card_power) : null;
         const frontCombo = item.card_type === "Battle" ? Number(item.card_combo_power) : null;
