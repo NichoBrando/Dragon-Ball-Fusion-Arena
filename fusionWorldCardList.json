@@ -1,0 +1,431 @@
+{
+    "FS01-15": {
+        "id": "FS01-15",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Kamehameha",
+                "type": "card_type",
+                "cost": 1,
+                "image": "",
+                "color": "Red",
+                "power": null,
+                "combo": null,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan"
+                ]
+            }
+        },
+        "name": "Kamehameha",
+        "type": "EXTRA",
+        "cost": 1,
+        "power": null,
+        "combo": null,
+        "color": "Red"
+    },
+    "FS01-03": {
+        "id": "FS01-03",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Master Roshi",
+                "type": "card_type",
+                "cost": 1,
+                "image": "",
+                "color": "Red",
+                "power": 5000,
+                "combo": 5000,
+                "isHorizontal": false,
+                "traits": [
+                    "Earthling",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Master Roshi",
+        "type": "BATTLE",
+        "cost": 1,
+        "power": 5000,
+        "combo": 5000,
+        "color": "Red"
+    },
+    "FS01-06": {
+        "id": "FS01-06",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Android 17",
+                "type": "card_type",
+                "cost": 3,
+                "image": "",
+                "color": "Red",
+                "power": 20000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Android",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Android 17",
+        "type": "BATTLE",
+        "cost": 3,
+        "power": 20000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-08": {
+        "id": "FS01-08",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "card_type",
+                "cost": 5,
+                "image": "",
+                "color": "Red",
+                "power": 35000,
+                "combo": 0,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Son Goku",
+        "type": "BATTLE",
+        "cost": 5,
+        "power": 35000,
+        "combo": 0,
+        "color": "Red"
+    },
+    "FS01-01": {
+        "id": "FS01-01",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Son Goku",
+                "type": "card_type",
+                "cost": null,
+                "image": "",
+                "color": "Red",
+                "power": 15000,
+                "combo": null,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan",
+                    "Universe 7"
+                ]
+            },
+            "back": {
+                "name": "Son Goku",
+                "type": "LEADER",
+                "cost": null,
+                "image": "",
+                "power": 20000,
+                "combo": null,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Son Goku",
+        "type": "LEADER",
+        "cost": null,
+        "power": 15000,
+        "combo": null,
+        "color": "Red"
+    },
+    "FS01-02": {
+        "id": "FS01-02",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Whis",
+                "type": "card_type",
+                "cost": 1,
+                "image": "",
+                "color": "Red",
+                "power": 5000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Angel",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Whis",
+        "type": "BATTLE",
+        "cost": 1,
+        "power": 5000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-04": {
+        "id": "FS01-04",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Krillin",
+                "type": "card_type",
+                "cost": 2,
+                "image": "",
+                "color": "Red",
+                "power": 15000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Earthling",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Krillin",
+        "type": "BATTLE",
+        "cost": 2,
+        "power": 15000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-09": {
+        "id": "FS01-09",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Son Gohan: Adolescence",
+                "type": "card_type",
+                "cost": 4,
+                "image": "",
+                "color": "Red",
+                "power": 25000,
+                "combo": 5000,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan",
+                    "Earthling",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Son Gohan: Adolescence",
+        "type": "BATTLE",
+        "cost": 4,
+        "power": 25000,
+        "combo": 5000,
+        "color": "Red"
+    },
+    "FS01-14": {
+        "id": "FS01-14",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Vegeta",
+                "type": "card_type",
+                "cost": 2,
+                "image": "",
+                "color": "Red",
+                "power": 15000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Vegeta",
+        "type": "BATTLE",
+        "cost": 2,
+        "power": 15000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-16": {
+        "id": "FS01-16",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "God Kamehameha",
+                "type": "card_type",
+                "cost": 2,
+                "image": "",
+                "color": "Red",
+                "power": null,
+                "combo": null,
+                "isHorizontal": false,
+                "traits": [
+                    "Saiyan"
+                ]
+            }
+        },
+        "name": "God Kamehameha",
+        "type": "EXTRA",
+        "cost": 2,
+        "power": null,
+        "combo": null,
+        "color": "Red"
+    },
+    "FS01-05": {
+        "id": "FS01-05",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Shin",
+                "type": "card_type",
+                "cost": 7,
+                "image": "",
+                "color": "Red",
+                "power": 15000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Supreme Kai",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Shin",
+        "type": "BATTLE",
+        "cost": 7,
+        "power": 15000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-07": {
+        "id": "FS01-07",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Android 18",
+                "type": "card_type",
+                "cost": 2,
+                "image": "",
+                "color": "Red",
+                "power": 20000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Android",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Android 18",
+        "type": "BATTLE",
+        "cost": 2,
+        "power": 20000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-11": {
+        "id": "FS01-11",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Piccolo",
+                "type": "card_type",
+                "cost": 3,
+                "image": "",
+                "color": "Red",
+                "power": 25000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Namekian",
+                    "God",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Piccolo",
+        "type": "BATTLE",
+        "cost": 3,
+        "power": 25000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-12": {
+        "id": "FS01-12",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Beerus",
+                "type": "card_type",
+                "cost": 3,
+                "image": "",
+                "color": "Red",
+                "power": 20000,
+                "combo": 5000,
+                "isHorizontal": false,
+                "traits": [
+                    "God of Destruction",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Beerus",
+        "type": "BATTLE",
+        "cost": 3,
+        "power": 20000,
+        "combo": 5000,
+        "color": "Red"
+    },
+    "FS01-10": {
+        "id": "FS01-10",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Tien Shinhan",
+                "type": "card_type",
+                "cost": 1,
+                "image": "",
+                "color": "Red",
+                "power": 15000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Earthling",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Tien Shinhan",
+        "type": "BATTLE",
+        "cost": 1,
+        "power": 15000,
+        "combo": 10000,
+        "color": "Red"
+    },
+    "FS01-13": {
+        "id": "FS01-13",
+        "isToken": false,
+        "face": {
+            "front": {
+                "name": "Frieza",
+                "type": "card_type",
+                "cost": 4,
+                "image": "",
+                "color": "Red",
+                "power": 30000,
+                "combo": 10000,
+                "isHorizontal": false,
+                "traits": [
+                    "Frieza Clan",
+                    "Universe 7"
+                ]
+            }
+        },
+        "name": "Frieza",
+        "type": "BATTLE",
+        "cost": 4,
+        "power": 30000,
+        "combo": 10000,
+        "color": "Red"
+    }
+}
