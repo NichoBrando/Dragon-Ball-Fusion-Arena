@@ -52,7 +52,7 @@ const transformCardData = (items, collectionName) => {
             "color": item.card_color
         };
 
-        if (data.type === 'LEADER') {
+        if (data.type === 'Leader') {
             data.face.back = {
                 "name": item.card_back_name || "",
                 "type": item.card_type,
