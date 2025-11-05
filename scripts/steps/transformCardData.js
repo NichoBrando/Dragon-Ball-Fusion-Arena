@@ -20,13 +20,15 @@ const desiredResponse = {
     }
 }
 
-const transformCardData = (items, collectionName) => {
+const transformCardData = (items) => {
     const itemList = items.map(item => {
         item.card_type = item.card_type.charAt(0).toUpperCase() + item.card_type.slice(1).toLowerCase();
 
         const frontPower = item.card_type !== "Extra" ? Number(item.card_power) : null;
         const frontCombo = item.card_type === "Battle" ? Number(item.card_combo_power) : null;
         const frontCost = item.card_type !== "Leader" ? Number(item.card_energy_cost) : null;
+
+        const collectionName = item.card_number.split('-')[0];
 
         const data = {
             "id": item.card_number || "",

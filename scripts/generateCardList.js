@@ -13,7 +13,7 @@ const generateCardList = async () => {
         async collectionName => {
             const cards = await getCollection(collectionName);
 
-            const treatedCards = transformCardData(cards, collectionName);
+            const treatedCards = transformCardData(cards);
             
             await saveImage(treatedCards);
 
