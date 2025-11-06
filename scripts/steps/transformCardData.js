@@ -76,7 +76,10 @@ const transformCardData = (items) => {
         if (curItem.variants || [].length) {
             return [
                 ...acc,
-                curItem,
+                {
+                    ...curItem,
+                    variants: undefined
+                },
                 ...curItem.variants.map(curVariant => {
                     const collectionName = curVariant.split('-')[0];
 
@@ -88,7 +91,8 @@ const transformCardData = (items) => {
                                 ...curItem.face.front,
                                 image: `https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/${collectionName}/${curVariant}.webp`
                             }
-                        }
+                        },
+                        variants: undefined
                     };
 
                     if (data.type === 'Leader') {
@@ -105,11 +109,12 @@ const transformCardData = (items) => {
 
         return [
             ...acc,
-            curItem
+            {
+                ...curItem,
+                variants: undefined
+            }
         ]
     }, []);
-
-    console.log(data);
 
     return data;
 }
