@@ -35,7 +35,7 @@ const transformCardData = (items) => {
             "isToken": false,
             "face": {
                 "front": {
-                    "name": item.card_name || "",
+                    "name": `${item.card_number} ${item.card_name || ""}`,
                     "type": item.card_type,
                     "cost": frontCost,
                     "image": `https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/${collectionName}/${item.card_number}.webp`,
@@ -43,10 +43,10 @@ const transformCardData = (items) => {
                     "power": frontPower,
                     "combo": frontCombo,
                     "isHorizontal": false,
-                    "traits": item.card_traits
+                    "traits": (item.card_traits || []).join(' / ')
                 }
             },
-            "name": item.card_name,
+            "name": `${item.card_number} ${item.card_name}`,
             "type": item.card_type,
             "cost": frontCost,
             "power": frontPower,
@@ -57,7 +57,7 @@ const transformCardData = (items) => {
 
         if (data.type === 'Leader') {
             data.face.back = {
-                "name": item.card_back_name || "",
+                "name": `${item.card_number} ${item.card_back_name || ""}`,
                 "type": item.card_type,
                 "cost": null,
                 "image": `https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/${collectionName}/${item.card_number}-b.webp`,
@@ -65,7 +65,7 @@ const transformCardData = (items) => {
                 "power": Number(item.card_back_power),
                 "combo": null,
                 "isHorizontal": false,
-                "traits": item.card_back_traits
+                "traits": (item.card_back_traits || []).join(' / ')
             }
         }
 
