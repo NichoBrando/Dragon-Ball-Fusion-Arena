@@ -24,7 +24,13 @@
       "cost",
       "traits"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "Standard",
+        "gameplay": "Classic",
+        "customCategories": []
+      }
+    ]
   },
   "gameplay": {
     "Classic": {
