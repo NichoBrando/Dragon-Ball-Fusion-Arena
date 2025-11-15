@@ -75,7 +75,7 @@
             {
               "direction": "column",
               "style": {
-                "width":"22vh"
+                "width": "22vh"
               },
               "content": [
                 {
@@ -94,8 +94,21 @@
               "style": false,
               "content": [
                 {
-                  "section": "Battle",
-                  "style": false
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Field",
+                      "style": {
+                        "width": "11vh"
+                      }
+                    },
+                    {
+                      "section": "Battle",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": true
                 },
                 {
                   "section": "Combo",
@@ -144,7 +157,7 @@
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
             "displayedTitle": "Life Area",
-            "noQuickActions": false,
+            "noQuickActions": true,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
