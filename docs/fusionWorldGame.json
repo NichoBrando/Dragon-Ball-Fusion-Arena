@@ -138,8 +138,8 @@
           "Life": {
             "title": "Life",
             "isHidden": "yes",
-            "height": "BIG",
-            "alignment": "CENTER",
+            "height": "SMALL",
+            "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
