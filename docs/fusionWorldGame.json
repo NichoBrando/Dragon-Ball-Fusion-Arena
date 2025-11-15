@@ -66,8 +66,7 @@
           "Life",
           "Battle",
           "Combo",
-          "Energy",
-          "Field"
+          "Energy"
         ],
         "layout": {
           "direction": "row",
@@ -95,21 +94,8 @@
               "style": false,
               "content": [
                 {
-                  "direction": "row",
-                  "style": false,
-                  "content": [
-                    {
-                      "section": "Field",
-                      "style": {
-                        "width": "11vh"
-                      }
-                    },
-                    {
-                      "section": "Battle",
-                      "style": false
-                    }
-                  ],
-                  "isSymetricalForOpponents": true
+                  "section": "Battle",
+                  "style": false
                 },
                 {
                   "section": "Combo",
@@ -157,13 +143,13 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Life Area",
-            "noQuickActions": false,
+            "displayedTitle": "Life",
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
           },
           "Battle": {
             "title": "Battle",
@@ -184,7 +170,7 @@
           "Combo": {
             "title": "Combo",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -200,28 +186,12 @@
           "Energy": {
             "title": "Energy",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
             "displayedTitle": "Energy Area",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Field": {
-            "title": "Field",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Field",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
