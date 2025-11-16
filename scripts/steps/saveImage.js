@@ -33,6 +33,8 @@ const saveImage = async (items) => {
         ];
     }, []);
 
+    const cardsToIgnore = [];
+
     await parallel(5, cardsToDownload, async (card) => {
         const collection = card.id.split('-')[0];
         const filePath = path.join(dir, collection, `${card.id}${card.isBackSide ? '-b' : ''}.webp`);
@@ -41,6 +43,7 @@ const saveImage = async (items) => {
                 const url = card.isToken ? card.face.front.image : `https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/${card.id}${card.isBackSide ? '_b' : ''}.webp`;
                 const response = await fetch(url);
                 if (!response.ok) {
+                    cardsToIgnore.push(card.id);
                     throw new Error(`Failed to fetch image: ${url}`);
                 }
                 const arrayBuffer = await response.arrayBuffer();
@@ -54,6 +57,8 @@ const saveImage = async (items) => {
             console.log(`Image already exists: ${filePath}`);
         }
     });
+
+    return cardsToIgnore;
 };
 
 module.exports = saveImage;

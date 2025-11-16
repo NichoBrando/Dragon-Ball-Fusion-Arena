@@ -14,12 +14,14 @@ const generateCardList = async () => {
 
         const treatedCards = transformCardData(cards);
         
-        await saveImage(treatedCards);
+        const cardsToIgnore = await saveImage(treatedCards);
 
-        const data = treatedCards.reduce((acc, item) => ({
-            ...acc,
-            [item.id]: item
-        }), {});
+        const data = treatedCards
+            .filter(item => !cardsToIgnore.includes(item.id))
+            .reduce((acc, item) => ({
+                ...acc,
+                [item.id]: item
+            }), {});
 
         return data;
     })();
