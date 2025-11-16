@@ -77,9 +77,7 @@
                 },
                 {
                   "section": "Life",
-                  "style": { 
-                    "margin-bottom": "40px" 
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -141,7 +139,7 @@
           "Life": {
             "title": "Life",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "18",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": true,
