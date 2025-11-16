@@ -9,24 +9,20 @@ const saveImage = require('./steps/saveImage');
 const getCollection = require('./steps/getCollection');
 
 const generateCardList = async () => {
-    const cardLists = await parallel(
-        4, 
-        collectionList || [],
-        async collectionName => {
-            const cards = await getCollection(collectionName);
+    const cardLists = await (async () => {
+        const cards = await getCollection();
 
-            const treatedCards = transformCardData(cards);
-            
-            await saveImage(treatedCards);
+        const treatedCards = transformCardData(cards);
+        
+        await saveImage(treatedCards);
 
-            const data = treatedCards.reduce((acc, item) => ({
-                ...acc,
-                [item.id]: item
-            }), {});
+        const data = treatedCards.reduce((acc, item) => ({
+            ...acc,
+            [item.id]: item
+        }), {});
 
-            return data;
-        }
-    );
+        return data;
+    })();
 
     const transformedMarkers = markers.map(item => {
         const name = (item.code).split('_')[0] + " Energy Marker";
@@ -66,7 +62,7 @@ const generateCardList = async () => {
 
     const groupedCards = [
         ...manualAddCards, 
-        ...cardLists, 
+        [cardLists], 
         ...markerCollection
     ].reduce(
         (acc, cardList) => ({

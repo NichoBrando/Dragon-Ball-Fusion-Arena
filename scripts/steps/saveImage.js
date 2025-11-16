@@ -40,7 +40,9 @@ const saveImage = async (items) => {
             try {
                 const url = card.isToken ? card.face.front.image : `https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/${card.id}${card.isBackSide ? '_b' : ''}.webp`;
                 const response = await fetch(url);
-                if (!response.ok) throw new Error(`Failed to fetch image: ${card.imageUrl}`);
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch image: ${url}`);
+                }
                 const arrayBuffer = await response.arrayBuffer();
                 const buffer = Buffer.from(arrayBuffer);
                 fs.writeFileSync(filePath, buffer);

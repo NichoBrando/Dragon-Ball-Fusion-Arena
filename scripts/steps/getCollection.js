@@ -1,4 +1,4 @@
-const getCollection = async (collectionName) => {
+const getCollection = async () => {
     const cardList = [];
 
     let currentResponse = [];
@@ -6,7 +6,7 @@ const getCollection = async (collectionName) => {
 
     do {
         const request = await  fetch(
-            `https://api.deckplanet.net/cardsearch/fusion_world_cards?filter={%22_and%22:[{%22status%22:{%22_eq%22:%22published%22}},{%22variant_of%22:{%22id%22:{%22_null%22:true}}},{%22_or%22:[{%22card_series%22:{%22_eq%22:%22${collectionName}%22}}]}]}&page=${currentPage}&search=&deep={%22variants%22:{%22_limit%22:-1,%22_sort%22:%22card_number%22,%22_filter%22:{%22status%22:{%22_eq%22:%22published%22}}}}&sort=-&isExactSearch=undefined`
+            `https://api.deckplanet.net/cardsearch/fusion_world_cards?filter={%22_and%22:[{%22status%22:{%22_eq%22:%22published%22}},{%22variant_of%22:{%22id%22:{%22_null%22:true}}}]}&page=${currentPage}&search=&deep={%22variants%22:{%22_limit%22:-1,%22_sort%22:%22card_number%22,%22_filter%22:{%22status%22:{%22_eq%22:%22published%22}}}}&sort=-&isExactSearch=undefined`
         );
 
         if (!request.ok) {
@@ -18,8 +18,6 @@ const getCollection = async (collectionName) => {
         if (!response?.data) {
             throw new Error('Invalid response data');
         }
-
-        console.log(response);
 
         currentResponse = response.data;
         currentPage++;
