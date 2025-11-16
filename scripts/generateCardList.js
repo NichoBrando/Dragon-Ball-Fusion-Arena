@@ -45,7 +45,8 @@ const generateCardList = async () => {
             },
             name,
             "type": "Energy Marker",
-            "cost": null
+            "cost": null,
+            tokens: [item.code]
         })
     });
 
