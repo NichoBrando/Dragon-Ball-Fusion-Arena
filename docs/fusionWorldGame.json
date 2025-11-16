@@ -78,7 +78,7 @@
                 {
                   "section": "Life",
                   "style": {
-                    "justify-self": "center",
+                    "align-self": "center",
                     "margin-bottom": "10px"
                   }
                 }
