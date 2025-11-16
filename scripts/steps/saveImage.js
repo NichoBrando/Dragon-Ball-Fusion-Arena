@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const collectionList = require('../collectionList.json');
+const { parallel } = require('radash');
 
 const saveImage = async (items) => {
     const dir = path.join(__dirname, "..", "..", "docs");
@@ -32,12 +33,13 @@ const saveImage = async (items) => {
         ];
     }, []);
 
-    for (const card of cardsToDownload) {        
+    await parallel(5, cardsToDownload, async (card) => {
         const collection = card.id.split('-')[0];
-        const filePath = path.join(dir, collection, `${card.id}${card.isBackSide ? '-b' : ''}.${card.isToken ? 'webp' : 'webp'}`);
+        const filePath = path.join(dir, collection, `${card.id}${card.isBackSide ? '-b' : ''}.webp`);
         if (!fs.existsSync(filePath)) {
             try {
-                const response = await fetch(`https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/${card.id}${card.isBackSide ? '_b' : ''}.webp`);
+                const url = card.isToken ? card.face.front.image : `https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/${card.id}${card.isBackSide ? '_b' : ''}.webp`;
+                const response = await fetch(url);
                 if (!response.ok) throw new Error(`Failed to fetch image: ${card.imageUrl}`);
                 const arrayBuffer = await response.arrayBuffer();
                 const buffer = Buffer.from(arrayBuffer);
@@ -49,7 +51,7 @@ const saveImage = async (items) => {
         } else {
             console.log(`Image already exists: ${filePath}`);
         }
-    }
+    });
 };
 
 module.exports = saveImage;
