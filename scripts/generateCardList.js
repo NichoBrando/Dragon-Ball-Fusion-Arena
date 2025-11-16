@@ -16,15 +16,16 @@ const generateCardList = async () => {
         
         const cardsToIgnore = await saveImage(treatedCards);
 
-        const data = treatedCards
-            .filter(item => !cardsToIgnore.includes(item.id))
-            .reduce((acc, item) => ({
-                ...acc,
-                [item.id]: item
-            }), {});
+        console.log(cardsToIgnore);
 
-        return data;
+        return treatedCards
+            .filter(item => !cardsToIgnore.includes(item.id))
+            .map(item => ({
+                [item.id]: item
+            }));
     })();
+
+    console.log(Object.keys(cardLists).length);
 
     const transformedMarkers = markers.map(item => {
         const name = (item.code).split('_')[0] + " Energy Marker";
@@ -64,7 +65,7 @@ const generateCardList = async () => {
 
     const groupedCards = [
         ...manualAddCards, 
-        [cardLists], 
+        ...cardLists, 
         ...markerCollection
     ].reduce(
         (acc, cardList) => ({
