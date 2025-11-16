@@ -110,13 +110,14 @@
           "Leader"
         ],
         "autoPlayFromHand": {
-          "Battle": "Battle Area",
-          "Energy Marker": "Energy Area",
+          "Battle": "Battle",
+          "Energy Marker": "Energy",
           "Extra": "Stack"
         },
         "autoPlayFromStack": {
-          "Battle": "Battle Area",
-          "Extra": "Discard"
+          "Battle": "Battle",
+          "Extra": "Discard",
+          "Energy Marker": "Energy"
         },
         "sectionsDict": {
           "Leader": {
