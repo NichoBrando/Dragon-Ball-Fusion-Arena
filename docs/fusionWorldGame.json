@@ -198,7 +198,7 @@
             "displayedTitle": "Energy Area",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": false,
+            "enterSpun": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
