@@ -26,10 +26,10 @@ const generateCardList = async () => {
                             ...item.face.front,
                             urlImage: undefined
                         },
-                        back: {
+                        back: item.face.back ? {
                             ...item.face.back,
                             urlImage: undefined
-                        }
+                        } : undefined
                     }
                 })
             }));
@@ -53,10 +53,10 @@ const generateCardList = async () => {
                             ...item.face.front,
                             urlImage: undefined
                         },
-                        back: {
+                        back: item.face.back ? {
                             ...item.face.back,
                             urlImage: undefined
-                        }
+                        } : undefined
                     }
                 })
             }));
