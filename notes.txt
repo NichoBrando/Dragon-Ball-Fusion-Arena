@@ -1,5 +1,1 @@
-- Play Battle Card: Vai pro campo direto
-- Play extra: vai pra pilha normal
-- Adicionar todas as markers e fazer funcionar
-- Add Descrição para ajudar todo mundo
-- Add precon decks
+fb05-007_pr goku bug

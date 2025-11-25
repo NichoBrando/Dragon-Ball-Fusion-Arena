@@ -24,6 +24,8 @@ const transformManualCardData = (items) => {
     return items.map(item => {
         const collectionName = item.code.split('-')[0];
 
+        item.code = item.code.replace('_f', '');
+
         const data = {
             "id": item.code,
             "isToken": false,
