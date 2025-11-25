@@ -704,6 +704,7 @@
     {
         "code": "FB08-049_f",
         "color": "green",
+        "type": "Leader",
         "cardName": "FB08-049 Turles",
         "cost": null,
         "power": "15000",
@@ -716,6 +717,7 @@
         "code": "FB08-049_f_p1",
         "color": "green",
         "cardName": "FB08-049 Turles",
+        "type": "Leader",
         "cost": null,
         "power": "15000",
         "awakenedPower": "20000",
