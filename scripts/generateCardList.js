@@ -7,8 +7,34 @@ const { writeFileSync } = require('fs');
 const path = require('path');
 const saveImage = require('./steps/saveImage');
 const getCollection = require('./steps/getCollection');
+const saveImageFromOfficialSite = require('./steps/saveImageFromOfficialSite');
+const transformManualCardData = require('./steps/transformManualCardData');
 
 const generateCardList = async () => {
+    const manualAddCardsFormatted = await (async () => {
+        const cards = transformManualCardData(manualAddCards);
+
+        const cardsToIgnore = await saveImageFromOfficialSite(cards);
+
+        return cards
+            .filter(item => !cardsToIgnore.includes(item.id))
+            .map(item => ({
+                [item.id]: ({
+                    ...item,
+                    face: {
+                        front: {
+                            ...item.face.front,
+                            urlImage: undefined
+                        },
+                        back: {
+                            ...item.face.back,
+                            urlImage: undefined
+                        }
+                    }
+                })
+            }));
+    })();
+
     const cardLists = await (async () => {
         const cards = await getCollection();
 
@@ -16,12 +42,23 @@ const generateCardList = async () => {
         
         const cardsToIgnore = await saveImage(treatedCards);
 
-        console.log(cardsToIgnore);
 
         return treatedCards
             .filter(item => !cardsToIgnore.includes(item.id))
             .map(item => ({
-                [item.id]: item
+                [item.id]: ({
+                    ...item,
+                    face: {
+                        front: {
+                            ...item.face.front,
+                            urlImage: undefined
+                        },
+                        back: {
+                            ...item.face.back,
+                            urlImage: undefined
+                        }
+                    }
+                })
             }));
     })();
 
@@ -64,7 +101,7 @@ const generateCardList = async () => {
     }));
 
     const groupedCards = [
-        ...manualAddCards, 
+        ...manualAddCardsFormatted, 
         ...cardLists, 
         ...markerCollection
     ].reduce(
