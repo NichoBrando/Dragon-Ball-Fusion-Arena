@@ -30,12 +30,14 @@ const transformCardData = (items) => {
 
         const collectionName = item.card_number.split('-')[0];
 
+        const name = `${item.card_number} ${item.card_name || ""}`.replace('_PR', '');
+
         const data = {
             "id": item.card_number || "",
             "isToken": false,
             "face": {
                 "front": {
-                    "name": `${item.card_number} ${item.card_name || ""}`,
+                    "name": name,
                     "type": item.card_type,
                     "cost": frontCost,
                     "image": `https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/${collectionName}/${item.card_number}.webp`,
@@ -46,7 +48,7 @@ const transformCardData = (items) => {
                     "traits": (item.card_traits || []).join(' / ')
                 }
             },
-            "name": `${item.card_number} ${item.card_name}`,
+            "name": name,
             "type": item.card_type,
             "cost": frontCost,
             "power": frontPower,

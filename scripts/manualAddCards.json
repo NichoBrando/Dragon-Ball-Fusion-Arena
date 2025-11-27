@@ -1722,5 +1722,27 @@
         "combo": "10000",
         "traits": "-",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105_p2.webp"
+    },
+    {
+        "code": "FP-068",
+        "color": "red",
+        "cardName": "FP-068 Trunks : Future",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "combo": "10000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105_p2.png"
+    },
+    {
+        "code": "FP-068_pr",
+        "color": "red",
+        "cardName": "FP-068 Trunks : Future",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "combo": "10000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105_p2.png"
     }
 ]
