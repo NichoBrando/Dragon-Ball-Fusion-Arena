@@ -330,6 +330,17 @@
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-024.webp"
     },
     {
+        "code": "FB08-024_PR",
+        "color": "red",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "combo": "",
+        "traits": "Saiyan",
+        "cardName": "FB08-024 Threads of Fate",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-024_p1.webp"
+    },
+    {
         "code": "FB08-121",
         "color": "red",
         "type": "Battle",
@@ -1744,5 +1755,148 @@
         "combo": "10000",
         "traits": "Saiyan / Earthling",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105_p2.png"
+    },
+    {
+        "code": "FP-068_PR",
+        "color": "red",
+        "cardName": "FP-068 Trunks : Future",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "combo": "10000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB04-105_p2.png"
+    },
+    {
+        "code": "FP-063",
+        "color": "red",
+        "cardName": "FP-063 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "combo": "5000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-063.webp"
+    },
+    {
+        "code": "FP-063_PR",
+        "color": "red",
+        "cardName": "FP-063 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "combo": "5000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-063_p1.webp"
+    },
+    {
+        "code": "FP-064",
+        "color": "blue",
+        "cardName": "FP-064 Mighty Mask",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "combo": "10000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-064.webp"
+    },
+    {
+        "code": "FB07-035_PR2",
+        "color": "blue",
+        "cardName": "FB07-035 Omega Shenron",
+        "type": "Battle",
+        "cost": 5,
+        "power": "35000",
+        "combo": "0",
+        "traits": "Shadow Dragon",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB07-035_p2.webp"
+    },
+    {
+        "code": "FP-064_PR",
+        "color": "blue",
+        "cardName": "FP-064 Mighty Mask",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "combo": "10000",
+        "traits": "Saiyan / Earthling",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-064_p1.webp"
+    },
+    {
+        "code": "FP-065",
+        "color": "green",
+        "cardName": "FP-065 Cell",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "combo": "5000",
+        "traits": "Android",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-065.webp"
+    },
+    {
+        "code": "FP-065_PR",
+        "color": "green",
+        "cardName": "FP-065 Cell",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "combo": "5000",
+        "traits": "Android",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-065_p1.webp"
+    },
+    {
+        "code": "FP-066",
+        "color": "yellow",
+        "cardName": "FP-066 Broly",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "combo": "5000",
+        "traits": "Saiyan",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-066.webp"
+    },
+    {
+        "code": "FP-066_PR",
+        "color": "yellow",
+        "cardName": "FP-066 Broly",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "combo": "5000",
+        "traits": "Saiyan",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-066_p1.webp"
+    },
+    {
+        "code": "FP-067",
+        "color": "black",
+        "cardName": "FP-067 Son Goku",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "combo": "5000",
+        "traits": "Saiyan / Another World",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-067.webp"
+    },
+    {
+        "code": "FP-067_PR",
+        "color": "black",
+        "cardName": "FP-067 Son Goku",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "combo": "5000",
+        "traits": "Saiyan / Another World",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-067_p1.webp"
+    },
+    {
+        "code": "FP-069",
+        "color": "yellow",
+        "cardName": "FP-069 Broly",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "combo": "10000",
+        "traits": "Saiyan",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-069.webp"
     }
 ]

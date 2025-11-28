@@ -963,5 +963,55 @@
         "code": "E-104",
         "cardName": "E-104 Energy Marker",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-104.webp"
+    },
+    {
+        "code": "E-106",
+        "cardName": "E-106 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-106.webp"
+    },
+    {
+        "code": "E-106_p1",
+        "cardName": "E-106 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-106_p1.webp"
+    },
+    {
+        "code": "E-107",
+        "cardName": "E-107 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-107.webp"
+    },
+    {
+        "code": "E-107_p1",
+        "cardName": "E-107 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-107_p1.webp"
+    },
+    {
+        "code": "E-108",
+        "cardName": "E-108 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-108.webp"
+    },
+    {
+        "code": "E-108_p1",
+        "cardName": "E-108 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-108_p1.webp"
+    },
+    {
+        "code": "E-109",
+        "cardName": "E-109 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-109.webp"
+    },
+    {
+        "code": "E-109_p1",
+        "cardName": "E-109 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-109_p1.webp"
+    },
+    {
+        "code": "E-110",
+        "cardName": "E-110 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-110.webp"
+    },
+    {
+        "code": "E-110_p1",
+        "cardName": "E-110 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-110_p1.webp"
     }
 ]
