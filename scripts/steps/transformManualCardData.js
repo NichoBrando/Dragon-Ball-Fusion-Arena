@@ -39,12 +39,14 @@ const transformManualCardData = (items) => {
                     "isHorizontal": false,
                     "power": item.power !== null ? Number(item.power) : null,
                     "combo": item.combo !== null ? Number(item.combo) : null,
-                    "traits": item.traits || null
+                    "traits": item.traits || null,
+                    color: item.color || null
                 }
             },
             name: item.cardName,
-            "type": item.type,
-            "cost": item.cost,
+            type: item.type,
+            cost: item.cost,
+            color: item.color || null
         };
 
         if (data.type === 'Leader') {
@@ -56,7 +58,8 @@ const transformManualCardData = (items) => {
                 "urlImage": item.image.replace('_f', '_b'),
                 "isHorizontal": false,
                 "power": item.awakenedPower !== null ? Number(item.awakenedPower) : null,
-                "traits": item.traits || null
+                "traits": item.traits || null,
+                color: item.color || null
             };
         }
 

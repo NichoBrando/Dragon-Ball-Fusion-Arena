@@ -100,10 +100,10 @@ const generateCardList = async () => {
         }
     }));
 
-    const groupedCards = [
-        ...manualAddCardsFormatted, 
+    const groupedCards = [ 
         ...cardLists, 
-        ...markerCollection
+        ...markerCollection,
+        ...manualAddCardsFormatted
     ].reduce(
         (acc, cardList) => ({
             ...acc,
