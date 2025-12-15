@@ -34,6 +34,15 @@
   },
   "gameplay": {
     "Classic": {
+      "beforeGameStart": {
+        "initialBoardSetup": [
+          {
+            "drawFromTop": "Deck",
+            "count": 8,
+            "destination": "Life"
+          }
+        ]
+      },
       "mulligan": {
         "info": "You can mulligan once per game.",
         "startingHandSize": "6",
