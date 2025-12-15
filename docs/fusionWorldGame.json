@@ -34,6 +34,13 @@
   },
   "gameplay": {
     "Classic": {
+      "mulligan": {
+        "info": "You can mulligan once per game.",
+        "startingHandSize": "6",
+        "drawNewHand": true,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
       "beforeGameStart": {
         "initialBoardSetup": [
           {
@@ -42,13 +49,6 @@
             "destination": "Life"
           }
         ]
-      },
-      "mulligan": {
-        "info": "You can mulligan once per game.",
-        "startingHandSize": "6",
-        "drawNewHand": true,
-        "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
       },
       "newTurn": {
         "drawOnStart": false,
