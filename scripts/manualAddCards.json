@@ -150,5 +150,41 @@
         "cost": null,
         "power": "25000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-050",
+        "color": "Green",
+        "cardName": "FB09-050 Gamma 1 : SH",
+        "type": "Battle",
+        "cost": null,
+        "power": "15000",
+        "traits": "Android / Red Ribbon Army"
+    },
+    {
+        "code": "FB09-052",
+        "color": "Green",
+        "cardName": "FB09-052 Gamma 2 : SH",
+        "type": "Battle",
+        "cost": null,
+        "power": "25000",
+        "traits": "Android / Red Ribbon Army"
+    },
+    {
+        "code": "FB09-079",
+        "color": "Yellow",
+        "cardName": "FB09-079 Son Goku",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-092",
+        "color": "Yellow",
+        "cardName": "FB09-092 Vegeta",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
     }
 ]
