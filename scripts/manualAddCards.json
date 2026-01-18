@@ -186,5 +186,41 @@
         "cost": null,
         "power": "5000",
         "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-008",
+        "color": "Red",
+        "cardName": "FB09-008 Son Goku : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-013",
+        "color": "Red",
+        "cardName": "FB09-013 Piccolo : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Namekian / God"
+    },
+    {
+        "code": "FB09-018",
+        "color": "Red",
+        "cardName": "FB09-018 Vegeta : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-099",
+        "color": "Red",
+        "cardName": "FB09-099 Son Goku : GT",
+        "type": "Battle",
+        "cost": null,
+        "power": "25000",
+        "traits": "Saiyan"
     }
 ]
