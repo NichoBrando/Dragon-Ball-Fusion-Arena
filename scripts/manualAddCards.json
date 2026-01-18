@@ -222,5 +222,14 @@
         "cost": null,
         "power": "25000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-028",
+        "color": "Red",
+        "cardName": "FB09-028 Android 17",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Android / Universe 7 / Tournament of Power"
     }
 ]
