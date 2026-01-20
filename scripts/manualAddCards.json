@@ -258,5 +258,122 @@
         "cost": null,
         "power": "25000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-037",
+        "color": "Blue",
+        "cardName": "FB09-037 Son Goku",
+        "type": "Battle",
+        "cost": null,
+        "power": "40000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-011",
+        "color": "Red",
+        "cardName": "FB09-011 Son Goku : BR / Vegeta : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-007",
+        "color": "Red",
+        "cardName": "FB09-007 Gogeta : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "35000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-045",
+        "color": "Blue",
+        "cardName": "FB09-045 Vegeta",
+        "type": "Battle",
+        "cost": null,
+        "power": "35000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-059-2AA",
+        "color": "Green",
+        "cardName": "FB09-059 Son Gohan : SH",
+        "type": "Battle",
+        "cost": null,
+        "power": "30000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-060",
+        "color": "Green",
+        "cardName": "FB09-060 Son Gohan : SH",
+        "type": "Battle",
+        "cost": null,
+        "power": "50000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-072",
+        "color": "Green",
+        "cardName": "FB09-072 Special Beam Cannon",
+        "type": "Extra",
+        "cost": null,
+        "power": null,
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-082",
+        "color": "Yellow",
+        "cardName": "FB09-082 Son Goku / Vegeta",
+        "type": "Battle",
+        "cost": null,
+        "power": "20000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-083",
+        "color": "Yellow",
+        "cardName": "FB09-083 Son Goten",
+        "type": "Battle",
+        "cost": null,
+        "power": "15000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-086",
+        "color": "Yellow",
+        "cardName": "FB09-086 Trunks : Youth",
+        "type": "Battle",
+        "cost": null,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-100",
+        "color": "Black",
+        "cardName": "FB09-100 Son Goku : GT",
+        "type": "Battle",
+        "cost": null,
+        "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-117",
+        "color": "Black",
+        "cardName": "FB09-117 Vegeta : GT",
+        "type": "Battle",
+        "cost": null,
+        "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-119-2AA",
+        "color": "Black",
+        "cardName": "FB09-119 The Strongest Reach",
+        "type": "Extra",
+        "cost": null,
+        "power": null,
+        "traits": "Saiyan"
     }
 ]
