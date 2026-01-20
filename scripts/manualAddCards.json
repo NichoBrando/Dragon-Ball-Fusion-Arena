@@ -231,5 +231,32 @@
         "cost": null,
         "power": "5000",
         "traits": "Android / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-033",
+        "color": "Blue",
+        "cardName": "FB09-033 Son Goku",
+        "type": "Battle",
+        "cost": null,
+        "power": "15000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-034",
+        "color": "Blue",
+        "cardName": "FB09-034 Son Goku",
+        "type": "Battle",
+        "cost": null,
+        "power": "20000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-058",
+        "color": "Blue",
+        "cardName": "FB09-058 Son Gohan : SH",
+        "type": "Battle",
+        "cost": null,
+        "power": "25000",
+        "traits": "Saiyan / Earthling"
     }
 ]
