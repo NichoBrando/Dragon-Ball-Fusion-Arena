@@ -375,5 +375,32 @@
         "cost": null,
         "power": null,
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-123",
+        "color": "Black",
+        "cardName": "FB09-123 Gogeta : GT",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-122",
+        "color": "Yellow",
+        "cardName": "FB09-122 Gogeta",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-121",
+        "color": "Red",
+        "cardName": "FB09-123 Gogeta : BR",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan"
     }
 ]
