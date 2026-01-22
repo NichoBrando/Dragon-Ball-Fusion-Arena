@@ -402,5 +402,23 @@
         "cost": 6,
         "power": "40000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-109",
+        "color": "Black",
+        "cardName": "FB09-109 Trunks : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-105",
+        "color": "Black",
+        "cardName": "FB09-105 Son Gohan : GT",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
     }
 ]
