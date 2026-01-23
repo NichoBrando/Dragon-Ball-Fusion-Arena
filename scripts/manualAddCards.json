@@ -404,6 +404,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-006",
+        "color": "Red",
+        "cardName": "FB09-006 Gogeta : BR",
+        "type": "Battle",
+        "cost": 5,
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-109",
         "color": "Black",
         "cardName": "FB09-109 Trunks : GT",
