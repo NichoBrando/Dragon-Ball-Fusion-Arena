@@ -323,6 +323,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-047",
+        "color": "Blue",
+        "cardName": "FB09-047 Divine Domain",
+        "type": "Extra",
+        "cost": null,
+        "power": null,
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-082",
         "color": "Yellow",
         "cardName": "FB09-082 Son Goku / Vegeta",
