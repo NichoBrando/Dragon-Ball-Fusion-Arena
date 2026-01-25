@@ -40,6 +40,15 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-093-AA",
+        "color": "Black",
+        "cardName": "FB09-093 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FB09-097",
         "color": "Black",
         "cardName": "FB09-097 Gogeta : GT",
@@ -152,6 +161,24 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-036-AA",
+        "color": "Blue",
+        "cardName": "FB09-036 Son Goku",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-114-AA",
+        "color": "Black",
+        "cardName": "FB09-114 Bulla : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-050",
         "color": "Green",
         "cardName": "FB09-050 Gamma 1 : SH",
@@ -198,6 +225,15 @@
     },
     {
         "code": "FB09-013",
+        "color": "Red",
+        "cardName": "FB09-013 Piccolo : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "5000",
+        "traits": "Namekian / God"
+    },
+    {
+        "code": "FB09-013-AA",
         "color": "Red",
         "cardName": "FB09-013 Piccolo : BR",
         "type": "Battle",
@@ -287,13 +323,31 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-044-AA",
+        "color": "Blue",
+        "cardName": "FB09-044 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-045",
         "color": "Blue",
         "cardName": "FB09-045 Vegeta",
         "type": "Battle",
-        "cost": null,
+        "cost": 6,
         "power": "35000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-055-AA",
+        "color": "Green",
+        "cardName": "FB09-055 Gotenks : SH",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Earthling"
     },
     {
         "code": "FB09-059-2AA",
@@ -314,6 +368,24 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-063",
+        "color": "Green",
+        "cardName": "FB09-063 Pan : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-068-AA",
+        "color": "Green",
+        "cardName": "FB09-068 Piccolo : SH",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Namekian / God"
+    },
+    {
         "code": "FB09-072",
         "color": "Green",
         "cardName": "FB09-072 Special Beam Cannon",
@@ -330,6 +402,15 @@
         "cost": null,
         "power": null,
         "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-080",
+        "color": "Yellow",
+        "cardName": "FB09-080 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
     },
     {
         "code": "FB09-082",
@@ -368,12 +449,30 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-105-AA",
+        "color": "Black",
+        "cardName": "FB09-105 Son Goku : GT",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-117",
         "color": "Black",
         "cardName": "FB09-117 Vegeta : GT",
         "type": "Battle",
         "cost": null,
         "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-119",
+        "color": "Black",
+        "cardName": "FB09-119 The Strongest Reach",
+        "type": "Extra",
+        "cost": null,
+        "power": null,
         "traits": "Saiyan"
     },
     {
@@ -395,6 +494,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-123-SAA",
+        "color": "Black",
+        "cardName": "FB09-123 Gogeta : GT",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-122",
         "color": "Yellow",
         "cardName": "FB09-122 Gogeta",
@@ -404,7 +512,43 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-122-SAA",
+        "color": "Yellow",
+        "cardName": "FB09-122 Gogeta",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-122-AA",
+        "color": "Yellow",
+        "cardName": "FB09-122 Gogeta",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FB09-121",
+        "color": "Red",
+        "cardName": "FB09-123 Gogeta : BR",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-121-SAA",
+        "color": "Red",
+        "cardName": "FB09-123 Gogeta : BR",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-121-AA",
         "color": "Red",
         "cardName": "FB09-123 Gogeta : BR",
         "type": "Battle",
