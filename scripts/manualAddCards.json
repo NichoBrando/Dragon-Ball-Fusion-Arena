@@ -609,5 +609,14 @@
         "cost": 4,
         "power": "30000",
         "traits": "Saiyan / Earthling / Namekian / God"
+    },
+    {
+        "code": "FB09-023",
+        "color": "Red",
+        "cardName": "FB09-023 Torrent of Light",
+        "type": "Extra",
+        "cost": 2,
+        "power": null,
+        "traits": "Saiyan"
     }
 ]
