@@ -228,16 +228,25 @@
         "color": "Red",
         "cardName": "FB09-013 Piccolo : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Namekian / God"
+    },
+    {
+        "code": "FB09-014",
+        "color": "Red",
+        "cardName": "FB09-014 Bulma : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Earthling"
     },
     {
         "code": "FB09-013-AA",
         "color": "Red",
         "cardName": "FB09-013 Piccolo : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Namekian / God"
     },
@@ -582,5 +591,23 @@
         "cost": 3,
         "power": "20000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FP-075-2AA",
+        "color": "Blue",
+        "cardName": "FP-075 Son Goku / Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FP-076-2AA",
+        "color": "Blue",
+        "cardName": "FP-076 Son Gohan : SH / Piccolo : SH",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Earthling / Namekian / God"
     }
 ]
