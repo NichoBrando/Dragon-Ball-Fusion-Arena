@@ -170,6 +170,24 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-038",
+        "color": "Blue",
+        "cardName": "FB09-038 Great Priest",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Angel / Universe"
+    },
+    {
+        "code": "FB09-039",
+        "color": "Blue",
+        "cardName": "FB09-039 Great Priest",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Universe 6 / Tournament of Power"
+    },
+    {
         "code": "FB09-114-AA",
         "color": "Black",
         "cardName": "FB09-114 Bulla : GT",
@@ -618,5 +636,14 @@
         "cost": 2,
         "power": null,
         "traits": "Saiyan"
+    },
+    {
+        "code": "FS11-03",
+        "color": "Yellow",
+        "cardName": "FS11-03 Gotenks",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
     }
 ]
