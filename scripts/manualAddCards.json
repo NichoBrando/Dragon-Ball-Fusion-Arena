@@ -215,6 +215,33 @@
         "traits": "Android / Red Ribbon Army"
     },
     {
+        "code": "FB09-053",
+        "color": "Green",
+        "cardName": "FB09-053 Krillin : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB09-056",
+        "color": "Green",
+        "cardName": "FB09-056 Android 18 : SH",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB09-061",
+        "color": "Green",
+        "cardName": "FB09-061 Dr. Hedo : SH",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling / Red Ribbon Army"
+    },
+    {
         "code": "FB09-079",
         "color": "Yellow",
         "cardName": "FB09-079 Son Goku",
@@ -645,5 +672,14 @@
         "cost": 4,
         "power": "20000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FS11-07",
+        "color": "Yellow",
+        "cardName": "FS11-07 Son Goku",
+        "type": "Battle",
+        "cost": 5,
+        "power": "20000",
+        "traits": "Saiyan / Another World"
     }
 ]
