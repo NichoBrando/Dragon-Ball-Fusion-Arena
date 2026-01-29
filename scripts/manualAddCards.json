@@ -505,7 +505,7 @@
     {
         "code": "FB09-105-AA",
         "color": "Black",
-        "cardName": "FB09-105 Son Goku : GT",
+        "cardName": "FB09-105 Son Gohan : GT",
         "type": "Battle",
         "cost": 3,
         "power": "20000",
@@ -523,7 +523,7 @@
     {
         "code": "FB09-119",
         "color": "Black",
-        "cardName": "FB09-119 The Strongest Reach",
+        "cardName": "FB09-119 Pinnacle of Strength",
         "type": "Extra",
         "cost": null,
         "power": null,
@@ -532,7 +532,7 @@
     {
         "code": "FB09-119-2AA",
         "color": "Black",
-        "cardName": "FB09-119 The Strongest Reach",
+        "cardName": "FB09-119 Pinnacle of Strength",
         "type": "Extra",
         "cost": null,
         "power": null,
@@ -572,6 +572,33 @@
         "type": "Battle",
         "cost": 6,
         "power": "40000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-074",
+        "color": "Yellow",
+        "cardName": "FB09-074 North Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
+        "code": "FB09-094",
+        "color": "Yellow",
+        "cardName": "FB09-094 South Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
+        "code": "FB09-096",
+        "color": "Yellow",
+        "cardName": "FB09-096 Warrior Who Defeats the Evil Demon",
+        "type": "Extra",
+        "cost": 1,
+        "power": null,
         "traits": "Saiyan / Another World"
     },
     {
@@ -648,7 +675,7 @@
     },
     {
         "code": "FP-076-2AA",
-        "color": "Blue",
+        "color": "Green",
         "cardName": "FP-076 Son Gohan : SH / Piccolo : SH",
         "type": "Battle",
         "cost": 4,
@@ -681,5 +708,14 @@
         "cost": 5,
         "power": "20000",
         "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FS11-09",
+        "color": "Yellow",
+        "cardName": "FS11-09 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
     }
 ]
