@@ -19,9 +19,6 @@
     "mainFilters": [
       "color",
       "type",
-      "power",
-      "combo",
-      "cost",
       "traits"
     ],
     "formats": [

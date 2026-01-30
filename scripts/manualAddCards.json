@@ -503,13 +503,40 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-113",
+        "color": "Black",
+        "cardName": "FB09-113 Videl : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB09-107",
+        "color": "Black",
+        "cardName": "FB09-107 Chi-Chi : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB09-104",
+        "color": "Black",
+        "cardName": "FB09-104 Son Gohan : GT",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-105-AA",
         "color": "Black",
         "cardName": "FB09-105 Son Gohan : GT",
         "type": "Battle",
         "cost": 3,
         "power": "20000",
-        "traits": "Saiyan"
+        "traits": "Saiyan / Earthling"
     },
     {
         "code": "FB09-117",
@@ -717,5 +744,14 @@
         "cost": 2,
         "power": "20000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FS11-14",
+        "color": "Yellow",
+        "cardName": "FS11-14 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Wicked Soul"
     }
 ]
