@@ -377,6 +377,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-007-AA",
+        "color": "Red",
+        "cardName": "FB09-007 Gogeta : BR",
+        "type": "Battle",
+        "cost": null,
+        "power": "35000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-044-AA",
         "color": "Blue",
         "cardName": "FB09-044 Vegeta",
@@ -674,6 +683,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-017",
+        "color": "Red",
+        "cardName": "FB09-017 Veku : BR",
+        "type": "Battle",
+        "cost": 3,
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-016",
+        "color": "Red",
+        "cardName": "FB09-016 Veku : BR",
+        "type": "Battle",
+        "cost": 3,
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-109",
         "color": "Black",
         "cardName": "FB09-109 Trunks : GT",
@@ -719,6 +746,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-024",
+        "color": "Red",
+        "cardName": "FB09-024 Fusion Mastery",
+        "type": "Extra",
+        "cost": 1,
+        "power": null,
+        "traits": "Saiyan"
+    },
+    {
         "code": "FS11-03",
         "color": "Yellow",
         "cardName": "FS11-03 Gotenks",
@@ -753,5 +789,14 @@
         "cost": 4,
         "power": "30000",
         "traits": "Saiyan / Wicked Soul"
+    },
+    {
+        "code": "FS12-03",
+        "color": "Black",
+        "cardName": "FS12-03 Krillin",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Earthling / Planet Namek"
     }
 ]
