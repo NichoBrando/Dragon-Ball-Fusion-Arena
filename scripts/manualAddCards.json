@@ -9,7 +9,7 @@
         "awakenedPower": "20000",
         "traits": "Saiyan"
     },
-        {
+    {
         "code": "FB09-025",
         "color": "Blue",
         "cardName": "FB09-025 Son Goku",
@@ -18,6 +18,33 @@
         "power": "15000",
         "awakenedPower": "20000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-026",
+        "color": "Blue",
+        "cardName": "FB09-026 Caulifla",
+        "type": "Battle",
+        "cost": 3,
+        "power": "15000",
+        "traits": "Saiyan / Universe 6 / Tournament of Power"
+    },
+    {
+        "code": "FB09-027",
+        "color": "Blue",
+        "cardName": "FB09-027 Kefla",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Universe 6 / Potara / Tournament of Power"
+    },
+    {
+        "code": "FB09-040",
+        "color": "Blue",
+        "cardName": "FB09-040 Frieza",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Frieza Clan / Universe 7 / Tournament of Power"
     },
     {
         "code": "FB09-049",
@@ -798,5 +825,14 @@
         "cost": 2,
         "power": "20000",
         "traits": "Earthling / Planet Namek"
+    },
+    {
+        "code": "FS12-07",
+        "color": "Black",
+        "cardName": "FS12-07 Son Goku",
+        "type": "Battle",
+        "cost": 7,
+        "power": "45000",
+        "traits": "Saiyan / Planet Namek"
     }
 ]
