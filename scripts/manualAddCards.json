@@ -386,6 +386,15 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-037-AA",
+        "color": "Blue",
+        "cardName": "FB09-037 Son Goku",
+        "type": "Battle",
+        "cost": null,
+        "power": "40000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-011",
         "color": "Red",
         "cardName": "FB09-011 Son Goku : BR / Vegeta : BR",
