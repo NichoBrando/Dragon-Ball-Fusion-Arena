@@ -449,11 +449,29 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-059",
+        "color": "Green",
+        "cardName": "FB09-059 Son Gohan : SH",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-065",
+        "color": "Green",
+        "cardName": "FB09-065 Videl : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "10000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB09-059-2AA",
         "color": "Green",
         "cardName": "FB09-059 Son Gohan : SH",
         "type": "Battle",
-        "cost": null,
+        "cost": 5,
         "power": "30000",
         "traits": "Saiyan / Earthling"
     },
@@ -489,7 +507,16 @@
         "color": "Green",
         "cardName": "FB09-072 Special Beam Cannon",
         "type": "Extra",
-        "cost": null,
+        "cost": 1,
+        "power": null,
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-072-AA",
+        "color": "Green",
+        "cardName": "FB09-072 Special Beam Cannon",
+        "type": "Extra",
+        "cost": 1,
         "power": null,
         "traits": "Saiyan / Earthling"
     },
@@ -834,6 +861,15 @@
         "cost": 2,
         "power": "20000",
         "traits": "Earthling / Planet Namek"
+    },
+    {
+        "code": "FS12-09",
+        "color": "Black",
+        "cardName": "FS12-09 Son Gohan : Youth",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Planet Namek"
     },
     {
         "code": "FS12-07",
