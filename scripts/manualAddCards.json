@@ -683,6 +683,15 @@
         "traits": "Kai / Another World"
     },
     {
+        "code": "FB09-090",
+        "color": "Yellow",
+        "cardName": "FB09-090 East Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
         "code": "FB09-094",
         "color": "Yellow",
         "cardName": "FB09-094 South Kai",
