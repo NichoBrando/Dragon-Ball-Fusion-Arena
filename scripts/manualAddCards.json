@@ -543,7 +543,16 @@
         "color": "Yellow",
         "cardName": "FB09-082 Son Goku / Vegeta",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-082-AA",
+        "color": "Yellow",
+        "cardName": "FB09-082 Son Goku / Vegeta",
+        "type": "Battle",
+        "cost": 2,
         "power": "20000",
         "traits": "Saiyan / Another World"
     },
@@ -677,6 +686,15 @@
         "code": "FB09-074",
         "color": "Yellow",
         "cardName": "FB09-074 North Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
+        "code": "FB09-087",
+        "color": "Yellow",
+        "cardName": "FB09-087 West Kai",
         "type": "Battle",
         "cost": 1,
         "power": "5000",
@@ -888,5 +906,14 @@
         "cost": 7,
         "power": "45000",
         "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FS12-13",
+        "color": "Black",
+        "cardName": "FS12-13 Piccolo",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Namekian / Planet Namek"
     } 
 ]
