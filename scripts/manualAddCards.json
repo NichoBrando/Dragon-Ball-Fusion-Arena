@@ -57,6 +57,24 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-062",
+        "color": "Green",
+        "cardName": "FB09-062 Trunks : SH",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-057",
+        "color": "Green",
+        "cardName": "FB09-057 Son Goten : SH",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-073",
         "color": "Yellow",
         "cardName": "FB09-073 Son Goku / Vegeta",
@@ -422,6 +440,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-043",
+        "color": "Blue",
+        "cardName": "FB09-043 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-044-AA",
         "color": "Blue",
         "cardName": "FB09-044 Vegeta",
@@ -525,7 +552,16 @@
         "color": "Blue",
         "cardName": "FB09-047 Divine Domain",
         "type": "Extra",
-        "cost": null,
+        "cost": 0,
+        "power": null,
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-048",
+        "color": "Blue",
+        "cardName": "FB09-048 A Pride Entrusted",
+        "type": "Extra",
+        "cost": 3,
         "power": null,
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
@@ -717,6 +753,24 @@
         "cost": 1,
         "power": "5000",
         "traits": "Kai / Another World"
+    },
+    {
+        "code": "FB09-075",
+        "color": "Yellow",
+        "cardName": "FB09-075 Gotenks",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-095",
+        "color": "Yellow",
+        "cardName": "FB09-095 Enma's Palace",
+        "type": "Extra",
+        "cost": 1,
+        "power": null,
+        "traits": "Another World"
     },
     {
         "code": "FB09-096",
@@ -915,5 +969,50 @@
         "cost": 3,
         "power": "25000",
         "traits": "Namekian / Planet Namek"
-    } 
+    },
+    {
+        "code": "FB09-116",
+        "color": "Black",
+        "cardName": "FB09-116 Vegeta : GT",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-115",
+        "color": "Black",
+        "cardName": "FB09-115 Bulma : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB09-108",
+        "color": "Black",
+        "cardName": "FB09-108 Trunks : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-015",
+        "color": "Red",
+        "cardName": "FB09-015 Broly : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-022",
+        "color": "Red",
+        "cardName": "FB09-022 Lemo : BR",
+        "type": "Battle",
+        "cost": 3,
+        "power": "10000",
+        "traits": "Frieza's Army"
+    }
 ]
