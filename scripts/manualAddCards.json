@@ -669,7 +669,16 @@
         "color": "Black",
         "cardName": "FB09-119 Pinnacle of Strength",
         "type": "Extra",
-        "cost": null,
+        "cost": 0,
+        "power": null,
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-120",
+        "color": "Black",
+        "cardName": "FB09-120 Big Bang Kamehameha",
+        "type": "Extra",
+        "cost": 2,
         "power": null,
         "traits": "Saiyan"
     },
@@ -678,7 +687,7 @@
         "color": "Black",
         "cardName": "FB09-119 Pinnacle of Strength",
         "type": "Extra",
-        "cost": null,
+        "cost": 0,
         "power": null,
         "traits": "Saiyan"
     },
