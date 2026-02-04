@@ -615,7 +615,16 @@
         "color": "Black",
         "cardName": "FB09-100 Son Goku : GT",
         "type": "Battle",
-        "cost": null,
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-100-AA",
+        "color": "Black",
+        "cardName": "FB09-100 Son Goku : GT",
+        "type": "Battle",
+        "cost": 4,
         "power": "30000",
         "traits": "Saiyan"
     },
