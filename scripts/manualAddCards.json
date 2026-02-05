@@ -809,6 +809,24 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-002",
+        "color": "Red",
+        "cardName": "FB09-002 Dr. Arinsu : DA",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "First Demon World / Demon Realm"
+    },
+    {
+        "code": "FB09-004",
+        "color": "Red",
+        "cardName": "FB09-004 Glorio : DA",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "First Demon World / Third Demon World / Demon Realm"
+    },
+    {
         "code": "FB09-121",
         "color": "Red",
         "cardName": "FB09-123 Gogeta : BR",
