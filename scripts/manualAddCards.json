@@ -10,6 +10,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-032",
+        "color": "Blue",
+        "cardName": "FB09-032 Son Goku",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-041",
+        "color": "Blue",
+        "cardName": "FB09-041 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FB09-025",
         "color": "Blue",
         "cardName": "FB09-025 Son Goku",
