@@ -122,16 +122,6 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB09-097",
-        "color": "Black",
-        "cardName": "FB09-097 Gogeta : GT",
-        "type": "Leader",
-        "cost": null,
-        "power": "15000",
-        "awakenedPower": "20000",
-        "traits": "Saiyan"
-    },
-    {
         "code": "FS11-01",
         "color": "Yellow",
         "cardName": "FS11-01 Son Goku",
@@ -156,7 +146,7 @@
         "color": "Black",
         "cardName": "FB09-110 Trunks : GT",
         "type": "Battle",
-        "cost": null,
+        "cost": 7,
         "power": "15000",
         "traits": "Saiyan / Earthling"
     },
@@ -165,7 +155,7 @@
         "color": "Yellow",
         "cardName": "FB09-088 Paikuhan",
         "type": "Battle",
-        "cost": null,
+        "cost": 7,
         "power": "15000",
         "traits": "Another World / Another World Budokai"
     },
@@ -174,7 +164,7 @@
         "color": "Red",
         "cardName": "FB09-005 Golden Frieza : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 7,
         "power": "15000",
         "traits": "Frieza Clan / Frieza's Army"
     },
@@ -183,7 +173,7 @@
         "color": "Red",
         "cardName": "FB09-010 Son Goku : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "20000",
         "traits": "Saiyan"
     },
@@ -192,7 +182,7 @@
         "color": "Red",
         "cardName": "FB09-020 Vegeta : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "20000",
         "traits": "Saiyan"
     },
@@ -201,16 +191,43 @@
         "color": "Blue",
         "cardName": "FB09-029 Android 17",
         "type": "Battle",
-        "cost": null,
+        "cost": 7,
         "power": "15000",
         "traits": "Android / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-070",
+        "color": "Green",
+        "cardName": "FB09-070 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-069",
+        "color": "Green",
+        "cardName": "FB09-069 Broly",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-054",
+        "color": "Green",
+        "cardName": "FB09-054 Kefla",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Universe 6 / Potara / Tournament of Power"
     },
     {
         "code": "FB09-064_pr",
         "color": "Green",
         "cardName": "FB09-064 Pan : SH",
         "type": "Battle",
-        "cost": null,
+        "cost": 7,
         "power": "15000",
         "traits": "Saiyan / Earthling"
     },
@@ -219,7 +236,7 @@
         "color": "Blue",
         "cardName": "FB09-035 Son Goku",
         "type": "Battle",
-        "cost": null,
+        "cost": 4,
         "power": "25000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
@@ -264,7 +281,7 @@
         "color": "Green",
         "cardName": "FB09-050 Gamma 1 : SH",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "15000",
         "traits": "Android / Red Ribbon Army"
     },
@@ -273,7 +290,7 @@
         "color": "Green",
         "cardName": "FB09-052 Gamma 2 : SH",
         "type": "Battle",
-        "cost": null,
+        "cost": 4,
         "power": "25000",
         "traits": "Android / Red Ribbon Army"
     },
@@ -309,7 +326,7 @@
         "color": "Yellow",
         "cardName": "FB09-079 Son Goku",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Saiyan / Another World"
     },
@@ -318,7 +335,7 @@
         "color": "Yellow",
         "cardName": "FB09-092 Vegeta",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Saiyan / Another World"
     },
@@ -327,7 +344,7 @@
         "color": "Red",
         "cardName": "FB09-008 Son Goku : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Saiyan"
     },
@@ -363,7 +380,7 @@
         "color": "Red",
         "cardName": "FB09-018 Vegeta : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Saiyan"
     },
@@ -372,7 +389,7 @@
         "color": "Black",
         "cardName": "FB09-099 Son Goku : GT",
         "type": "Battle",
-        "cost": null,
+        "cost": 3,
         "power": "25000",
         "traits": "Saiyan"
     },
@@ -381,7 +398,7 @@
         "color": "Blue",
         "cardName": "FB09-028 Android 17",
         "type": "Battle",
-        "cost": null,
+        "cost": 1,
         "power": "5000",
         "traits": "Android / Universe 7 / Tournament of Power"
     },
@@ -390,7 +407,7 @@
         "color": "Blue",
         "cardName": "FB09-033 Son Goku",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "15000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
@@ -399,7 +416,7 @@
         "color": "Blue",
         "cardName": "FB09-034 Son Goku",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "20000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
@@ -408,7 +425,7 @@
         "color": "Green",
         "cardName": "FB09-058 Son Gohan : SH",
         "type": "Battle",
-        "cost": null,
+        "cost": 4,
         "power": "25000",
         "traits": "Saiyan / Earthling"
     },
@@ -417,7 +434,7 @@
         "color": "Blue",
         "cardName": "FB09-037 Son Goku",
         "type": "Battle",
-        "cost": null,
+        "cost": 6,
         "power": "40000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
@@ -426,7 +443,7 @@
         "color": "Blue",
         "cardName": "FB09-037 Son Goku",
         "type": "Battle",
-        "cost": null,
+        "cost": 6,
         "power": "40000",
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
@@ -435,7 +452,7 @@
         "color": "Red",
         "cardName": "FB09-011 Son Goku : BR / Vegeta : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "20000",
         "traits": "Saiyan"
     },
@@ -444,7 +461,7 @@
         "color": "Red",
         "cardName": "FB09-007 Gogeta : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 6,
         "power": "35000",
         "traits": "Saiyan"
     },
@@ -453,7 +470,7 @@
         "color": "Red",
         "cardName": "FB09-007 Gogeta : BR",
         "type": "Battle",
-        "cost": null,
+        "cost": 6,
         "power": "35000",
         "traits": "Saiyan"
     },
@@ -525,7 +542,7 @@
         "color": "Green",
         "cardName": "FB09-060 Son Gohan : SH",
         "type": "Battle",
-        "cost": null,
+        "cost": 8,
         "power": "50000",
         "traits": "Saiyan / Earthling"
     },
@@ -615,7 +632,7 @@
         "color": "Yellow",
         "cardName": "FB09-083 Son Goten",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "15000",
         "traits": "Saiyan / Earthling"
     },
@@ -624,7 +641,7 @@
         "color": "Yellow",
         "cardName": "FB09-086 Trunks : Youth",
         "type": "Battle",
-        "cost": null,
+        "cost": 2,
         "power": "20000",
         "traits": "Saiyan / Earthling"
     },
@@ -687,7 +704,7 @@
         "color": "Black",
         "cardName": "FB09-117 Vegeta : GT",
         "type": "Battle",
-        "cost": null,
+        "cost": 4,
         "power": "30000",
         "traits": "Saiyan"
     },
