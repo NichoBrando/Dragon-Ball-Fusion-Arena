@@ -103,6 +103,33 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-076",
+        "color": "Yellow",
+        "cardName": "FB09-076 Saike Demon",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Another World"
+    },
+    {
+        "code": "FB09-077",
+        "color": "Yellow",
+        "cardName": "FB09-077 Janemba",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Another World"
+    },
+    {
+        "code": "FB09-078",
+        "color": "Yellow",
+        "cardName": "FB09-078 Janemba",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Another World"
+    },
+    {
         "code": "FB09-093-AA",
         "color": "Yellow",
         "cardName": "FB09-093 Vegeta",
