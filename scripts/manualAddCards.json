@@ -1060,6 +1060,33 @@
         "traits": "Saiyan / Planet Namek"
     },
     {
+        "code": "FS12-17",
+        "color": "Black",
+        "cardName": "FS12-17 Legendary Warrior",
+        "type": "Extra",
+        "cost": 4,
+        "power": null,
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FS11-02",
+        "color": "Yellow",
+        "cardName": "FS11-02 Gotenks",
+        "type": "Battle",
+        "cost": 3,
+        "power": 20000,
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FS11-12",
+        "color": "Yellow",
+        "cardName": "FS11-12 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": 5000,
+        "traits": "Saiyan"
+    },
+    {
         "code": "FS12-13",
         "color": "Black",
         "cardName": "FS12-13 Piccolo",
