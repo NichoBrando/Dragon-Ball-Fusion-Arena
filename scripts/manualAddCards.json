@@ -149,6 +149,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-111",
+        "color": "Black",
+        "cardName": "FB09-111 Trunks : Future",
+        "type": "Battle",
+        "cost": 0,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-106",
+        "color": "Black",
+        "cardName": "FB09-106 Son Gohan : Future",
+        "type": "Battle",
+        "cost": 6,
+        "power": "35000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FS11-01",
         "color": "Yellow",
         "cardName": "FS11-01 Son Goku",
