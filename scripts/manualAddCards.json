@@ -502,6 +502,33 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-011-AA",
+        "color": "Red",
+        "cardName": "FB09-011 Son Goku : BR / Vegeta : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-009",
+        "color": "Red",
+        "cardName": "FB09-009 Son Goku : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-003",
+        "color": "Red",
+        "cardName": "FB09-003 Whis : BR",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Angel"
+    },
+    {
         "code": "FB09-007",
         "color": "Red",
         "cardName": "FB09-007 Gogeta : BR",
