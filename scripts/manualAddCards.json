@@ -295,6 +295,15 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-036",
+        "color": "Blue",
+        "cardName": "FB09-036 Son Goku",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-038",
         "color": "Blue",
         "cardName": "FB09-038 Great Priest",
@@ -566,6 +575,33 @@
     },
     {
         "code": "FB09-045",
+        "color": "Blue",
+        "cardName": "FB09-045 Vegeta",
+        "type": "Battle",
+        "cost": 6,
+        "power": "35000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-030",
+        "color": "Blue",
+        "cardName": "FB09-030 Zen-Oh",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Universe"
+    },
+    {
+        "code": "FB09-046",
+        "color": "Blue",
+        "cardName": "FB09-046 Vegito",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Potara"
+    },
+    {
+        "code": "FB09-045-AA",
         "color": "Blue",
         "cardName": "FB09-045 Vegeta",
         "type": "Battle",
