@@ -610,6 +610,15 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-055",
+        "color": "Green",
+        "cardName": "FB09-055 Gotenks : SH",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-055-AA",
         "color": "Green",
         "cardName": "FB09-055 Gotenks : SH",
@@ -655,6 +664,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-060-AA",
+        "color": "Green",
+        "cardName": "FB09-060 Son Gohan : SH",
+        "type": "Battle",
+        "cost": 8,
+        "power": "50000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-063",
         "color": "Green",
         "cardName": "FB09-063 Pan : SH",
@@ -662,6 +680,15 @@
         "cost": 3,
         "power": "5000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-068",
+        "color": "Green",
+        "cardName": "FB09-068 Piccolo : SH",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Namekian / God"
     },
     {
         "code": "FB09-068-AA",
