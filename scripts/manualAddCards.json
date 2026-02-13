@@ -139,6 +139,24 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-093",
+        "color": "Yellow",
+        "cardName": "FB09-093 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-081",
+        "color": "Yellow",
+        "cardName": "FB09-081 Son Goku",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FB09-097",
         "color": "Black",
         "cardName": "FB09-097 Gogeta : GT",
@@ -959,6 +977,15 @@
         "cost": 1,
         "power": null,
         "traits": "Another World"
+    },
+    {
+        "code": "FB09-096-AA",
+        "color": "Yellow",
+        "cardName": "FB09-096 Warrior Who Defeats the Evil Demon",
+        "type": "Extra",
+        "cost": 1,
+        "power": null,
+        "traits": "Saiyan / Another World"
     },
     {
         "code": "FB09-096",
