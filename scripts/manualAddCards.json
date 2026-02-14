@@ -457,6 +457,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-098",
+        "color": "Black",
+        "cardName": "FB09-098 Gotenks",
+        "type": "Battle",
+        "cost": 6,
+        "power": "30000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-099",
         "color": "Black",
         "cardName": "FB09-099 Son Goku : GT",
