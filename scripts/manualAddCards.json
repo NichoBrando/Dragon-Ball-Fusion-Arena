@@ -349,6 +349,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-114",
+        "color": "Black",
+        "cardName": "FB09-114 Bulla : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-050",
         "color": "Green",
         "cardName": "FB09-050 Gamma 1 : SH",
@@ -464,6 +473,15 @@
         "cost": 6,
         "power": "30000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-118",
+        "color": "Black",
+        "cardName": "FB09-118 Hercule : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
     },
     {
         "code": "FB09-099",
