@@ -367,6 +367,15 @@
         "traits": "Android / Red Ribbon Army"
     },
     {
+        "code": "FB09-051",
+        "color": "Green",
+        "cardName": "FB09-050 Gamma 1 : SH / Gamma 2 : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Android / Red Ribbon Army"
+    },
+    {
         "code": "FB09-052",
         "color": "Green",
         "cardName": "FB09-052 Gamma 2 : SH",
@@ -417,6 +426,15 @@
         "cardName": "FB09-092 Vegeta",
         "type": "Battle",
         "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-091",
+        "color": "Yellow",
+        "cardName": "FB09-091 Veku",
+        "type": "Battle",
+        "cost": 3,
         "power": "5000",
         "traits": "Saiyan / Another World"
     },
@@ -637,6 +655,15 @@
         "traits": "Universe"
     },
     {
+        "code": "FB09-031",
+        "color": "Blue",
+        "cardName": "FB09-031 Zen-Oh",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Universe"
+    },
+    {
         "code": "FB09-046",
         "color": "Blue",
         "cardName": "FB09-046 Vegito",
@@ -835,6 +862,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-112",
+        "color": "Black",
+        "cardName": "FB09-112 Pan : GT",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-100-AA",
         "color": "Black",
         "cardName": "FB09-100 Son Goku : GT",
@@ -1031,6 +1067,15 @@
         "cost": 6,
         "power": "40000",
         "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-012",
+        "color": "Red",
+        "cardName": "FB09-012 Cheelai : BR",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Frieza's Army"
     },
     {
         "code": "FB09-002",
