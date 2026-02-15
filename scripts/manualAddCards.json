@@ -628,6 +628,15 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-044",
+        "color": "Blue",
+        "cardName": "FB09-044 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-044-AA",
         "color": "Blue",
         "cardName": "FB09-044 Vegeta",
@@ -1553,5 +1562,23 @@
         "cost": 3,
         "power": "10000",
         "traits": "Frieza's Army"
+    },
+    {
+        "code": "FB09-019",
+        "color": "Red",
+        "cardName": "FB09-019 Vegeta : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-021",
+        "color": "Red",
+        "cardName": "FB09-021 Vegeta : DA",
+        "type": "Battle",
+        "cost": 5,
+        "power": "35000",
+        "traits": "Saiyan / Demon Realm"
     }
 ]
