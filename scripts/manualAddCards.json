@@ -763,6 +763,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-067",
+        "color": "Green",
+        "cardName": "FB09-067 Piccolo : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Namekian / God"
+    },
+    {
         "code": "FB09-068",
         "color": "Green",
         "cardName": "FB09-068 Piccolo : SH",
@@ -778,6 +787,15 @@
         "type": "Battle",
         "cost": 4,
         "power": "25000",
+        "traits": "Namekian / God"
+    },
+    {
+        "code": "FB09-071",
+        "color": "Green",
+        "cardName": "FB09-071 Shenron's Extra",
+        "type": "Extra",
+        "cost": 5,
+        "power": null,
         "traits": "Namekian / God"
     },
     {
@@ -926,6 +944,15 @@
     },
     {
         "code": "FB09-117",
+        "color": "Black",
+        "cardName": "FB09-117 Vegeta : GT",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-117-AA",
         "color": "Black",
         "cardName": "FB09-117 Vegeta : GT",
         "type": "Battle",
