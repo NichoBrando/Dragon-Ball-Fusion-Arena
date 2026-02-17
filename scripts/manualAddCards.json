@@ -214,6 +214,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-089",
+        "color": "Yellow",
+        "cardName": "FB09-089 Paikuhan",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Another World / Another World Budokai"
+    },
+    {
         "code": "FB09-088_pr",
         "color": "Yellow",
         "cardName": "FB09-088 Paikuhan",
@@ -1022,6 +1031,15 @@
         "cost": 6,
         "power": "40000",
         "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-085",
+        "color": "Yellow",
+        "cardName": "FB09-085 Grand Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "20000",
+        "traits": "Kai / Another World"
     },
     {
         "code": "FB09-074",
