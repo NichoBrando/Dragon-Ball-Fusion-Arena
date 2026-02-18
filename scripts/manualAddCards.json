@@ -502,6 +502,24 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-102",
+        "color": "Black",
+        "cardName": "FB09-102 Son Goten : GT",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-103",
+        "color": "Black",
+        "cardName": "FB09-103 Son Gohan : GT",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-118",
         "color": "Black",
         "cardName": "FB09-118 Hercule : GT",
