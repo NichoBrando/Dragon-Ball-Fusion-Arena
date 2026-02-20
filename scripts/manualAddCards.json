@@ -385,6 +385,15 @@
         "traits": "Android / Red Ribbon Army"
     },
     {
+        "code": "FB09-051-AA",
+        "color": "Green",
+        "cardName": "FB09-051 Gamma 1 : SH / Gamma 2 : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Android / Red Ribbon Army"
+    },
+    {
         "code": "FB09-052",
         "color": "Green",
         "cardName": "FB09-052 Gamma 2 : SH",
