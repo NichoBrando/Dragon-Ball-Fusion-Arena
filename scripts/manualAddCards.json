@@ -1159,6 +1159,24 @@
         "traits": "Frieza's Army"
     },
     {
+        "code": "FB09-012",
+        "color": "Red",
+        "cardName": "FB09-012 Cheelai : BR",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Frieza's Army"
+    },
+    {
+        "code": "FB09-012-AA",
+        "color": "Red",
+        "cardName": "FB09-012 Cheelai : BR",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Frieza's Army"
+    },
+    {
         "code": "FB09-002",
         "color": "Red",
         "cardName": "FB09-002 Dr. Arinsu : DA",
