@@ -709,6 +709,15 @@
         "traits": "Universe"
     },
     {
+        "code": "FB09-031-AA",
+        "color": "Blue",
+        "cardName": "FB09-031 Zen-Oh",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Universe"
+    },
+    {
         "code": "FB09-046",
         "color": "Blue",
         "cardName": "FB09-046 Vegito",
