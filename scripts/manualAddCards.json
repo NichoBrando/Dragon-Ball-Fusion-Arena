@@ -457,6 +457,15 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-091-AA",
+        "color": "Yellow",
+        "cardName": "FB09-091 Veku",
+        "type": "Battle",
+        "cost": 3,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FB09-008",
         "color": "Red",
         "cardName": "FB09-008 Son Goku : BR",
@@ -935,6 +944,15 @@
     },
     {
         "code": "FB09-112",
+        "color": "Black",
+        "cardName": "FB09-112 Pan : GT",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB09-112-AA",
         "color": "Black",
         "cardName": "FB09-112 Pan : GT",
         "type": "Battle",
