@@ -1344,7 +1344,16 @@
         "cardName": "FS11-07 Son Goku",
         "type": "Battle",
         "cost": 5,
-        "power": "20000",
+        "power": "30000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FP-077",
+        "color": "Yellow",
+        "cardName": "FP-077 Son Goku",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
         "traits": "Saiyan / Another World"
     },
     {
