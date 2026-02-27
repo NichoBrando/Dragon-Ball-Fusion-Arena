@@ -294,6 +294,16 @@
         "traits": "Saiyan / Planet Namek"
     },
     {
+        "code": "FS12-01-AA",
+        "color": "Black",
+        "cardName": "FS12-01 Son Goku",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
         "code": "FB09-110",
         "color": "Black",
         "cardName": "FB09-110 Trunks : GT",
@@ -1671,7 +1681,25 @@
         "traits": "Earthling / Planet Namek"
     },
     {
+        "code": "FS12-03-AA",
+        "color": "Black",
+        "cardName": "FS12-03 Krillin",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Earthling / Planet Namek"
+    },
+    {
         "code": "FS12-09",
+        "color": "Black",
+        "cardName": "FS12-09 Son Gohan : Youth",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Planet Namek"
+    },
+    {
+        "code": "FS12-09-AA",
         "color": "Black",
         "cardName": "FS12-09 Son Gohan : Youth",
         "type": "Battle",
@@ -1689,7 +1717,25 @@
         "traits": "Saiyan / Planet Namek"
     },
     {
+        "code": "FS12-07-AA",
+        "color": "Black",
+        "cardName": "FS12-07 Son Goku",
+        "type": "Battle",
+        "cost": 7,
+        "power": "45000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
         "code": "FS12-17",
+        "color": "Black",
+        "cardName": "FS12-17 Legendary Warrior",
+        "type": "Extra",
+        "cost": 4,
+        "power": null,
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FS12-17-AA",
         "color": "Black",
         "cardName": "FS12-17 Legendary Warrior",
         "type": "Extra",
@@ -1707,7 +1753,25 @@
         "traits": "Saiyan / Planet Namek"
     },
     {
+        "code": "FS12-18-AA",
+        "color": "Black",
+        "cardName": "FS12-18 Kaio-ken x20",
+        "type": "Extra",
+        "cost": 1,
+        "power": null,
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
         "code": "FS12-02",
+        "color": "Black",
+        "cardName": "FS12-02 Krillin",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Earthling / Planet Namek"
+    },
+    {
+        "code": "FS12-02-AA",
         "color": "Black",
         "cardName": "FS12-02 Krillin",
         "type": "Battle",
@@ -1725,7 +1789,25 @@
         "traits": "Namekian / Planet Namek"
     },
     {
+        "code": "FS12-04-AA",
+        "color": "Black",
+        "cardName": "FS12-04 Guru",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Namekian / Planet Namek"
+    },
+    {
         "code": "FS12-05",
+        "color": "Black",
+        "cardName": "FS12-05 Son Goku",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FS12-05-AA",
         "color": "Black",
         "cardName": "FS12-05 Son Goku",
         "type": "Battle",
@@ -1743,7 +1825,25 @@
         "traits": "Saiyan / Planet Namek"
     },
     {
+        "code": "FS12-06-AA",
+        "color": "Black",
+        "cardName": "FS12-06 Son Goku",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
         "code": "FS12-08",
+        "color": "Black",
+        "cardName": "FS12-08 Son Gohan : Youth",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling / Planet Namek"
+    },
+    {
+        "code": "FS12-08-AA",
         "color": "Black",
         "cardName": "FS12-08 Son Gohan : Youth",
         "type": "Battle",
@@ -1761,7 +1861,25 @@
         "traits": "Namekian / Planet Namek"
     },
     {
+        "code": "FS12-10-AA",
+        "color": "Black",
+        "cardName": "FS12-10 Dende",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Namekian / Planet Namek"
+    },
+    {
         "code": "FS12-11",
+        "color": "Black",
+        "cardName": "FS12-11 Nail",
+        "type": "Battle",
+        "cost": 1,
+        "power": "15000",
+        "traits": "Namekian / Planet Namek"
+    },
+    {
+        "code": "FS12-11-AA",
         "color": "Black",
         "cardName": "FS12-11 Nail",
         "type": "Battle",
@@ -1779,7 +1897,25 @@
         "traits": "Namekian / Planet Namek"
     },
     {
+        "code": "FS12-12-AA",
+        "color": "Black",
+        "cardName": "FS12-12 Piccolo",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Namekian / Planet Namek"
+    },
+    {
         "code": "FS12-14",
+        "color": "Black",
+        "cardName": "FS12-14 Bulma",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling / Planet Namek"
+    },
+    {
+        "code": "FS12-14-AA",
         "color": "Black",
         "cardName": "FS12-14 Bulma",
         "type": "Battle",
@@ -1797,7 +1933,25 @@
         "traits": "Earthling / Planet Namek"
     },
     {
+        "code": "FS12-15-AA",
+        "color": "Black",
+        "cardName": "FS12-15 Bulma",
+        "type": "Battle",
+        "cost": 7,
+        "power": "15000",
+        "traits": "Earthling / Planet Namek"
+    },
+    {
         "code": "FS12-16",
+        "color": "Black",
+        "cardName": "FS12-16 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FS12-16-AA",
         "color": "Black",
         "cardName": "FS12-16 Vegeta",
         "type": "Battle",
@@ -2041,6 +2195,15 @@
     },
     {
         "code": "FS12-13",
+        "color": "Black",
+        "cardName": "FS12-13 Piccolo",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Namekian / Planet Namek"
+    },
+    {
+        "code": "FS12-13-AA",
         "color": "Black",
         "cardName": "FS12-13 Piccolo",
         "type": "Battle",
