@@ -274,6 +274,16 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FS11-01-AA",
+        "color": "Yellow",
+        "cardName": "FS11-01 Son Goku",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FS12-01",
         "color": "Black",
         "cardName": "FS12-01 Son Goku",
@@ -1508,7 +1518,25 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FS11-03-AA",
+        "color": "Yellow",
+        "cardName": "FS11-03 Gotenks",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FS11-07",
+        "color": "Yellow",
+        "cardName": "FS11-07 Son Goku",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FS11-07-AA",
         "color": "Yellow",
         "cardName": "FS11-07 Son Goku",
         "type": "Battle",
@@ -1607,7 +1635,25 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FS11-09-AA",
+        "color": "Yellow",
+        "cardName": "FS11-09 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FS11-14",
+        "color": "Yellow",
+        "cardName": "FS11-14 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Wicked Soul"
+    },
+    {
+        "code": "FS11-14-AA",
         "color": "Yellow",
         "cardName": "FS11-14 Vegeta",
         "type": "Battle",
@@ -1769,7 +1815,25 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FS11-02-AA",
+        "color": "Yellow",
+        "cardName": "FS11-02 Gotenks",
+        "type": "Battle",
+        "cost": 3,
+        "power": 20000,
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FS11-04",
+        "color": "Yellow",
+        "cardName": "FS11-04 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": 10000,
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FS11-04-AA",
         "color": "Yellow",
         "cardName": "FS11-04 Son Goku",
         "type": "Battle",
@@ -1787,7 +1851,25 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FS11-05-AA",
+        "color": "Yellow",
+        "cardName": "FS11-05 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": 15000,
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FS11-06",
+        "color": "Yellow",
+        "cardName": "FS11-06 Son Goku",
+        "type": "Battle",
+        "cost": 4,
+        "power": 20000,
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FS11-06-AA",
         "color": "Yellow",
         "cardName": "FS11-06 Son Goku",
         "type": "Battle",
@@ -1805,7 +1887,25 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FS11-08-AA",
+        "color": "Yellow",
+        "cardName": "FS11-08 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": 1,
+        "power": 5000,
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FS11-10",
+        "color": "Yellow",
+        "cardName": "FS11-10 Videl",
+        "type": "Battle",
+        "cost": 7,
+        "power": 15000,
+        "traits": "Earthling"
+    },
+    {
+        "code": "FS11-10-AA",
         "color": "Yellow",
         "cardName": "FS11-10 Videl",
         "type": "Battle",
@@ -1823,7 +1923,25 @@
         "traits": "Namekian / God"
     },
     {
+        "code": "FS11-11-AA",
+        "color": "Yellow",
+        "cardName": "FS11-11 Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": 20000,
+        "traits": "Namekian / God"
+    },
+    {
         "code": "FS11-13",
+        "color": "Yellow",
+        "cardName": "FS11-13 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": 10000,
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FS11-13-AA",
         "color": "Yellow",
         "cardName": "FS11-13 Vegeta",
         "type": "Battle",
@@ -1841,7 +1959,25 @@
         "traits": "Majin"
     },
     {
+        "code": "FS11-15-AA",
+        "color": "Yellow",
+        "cardName": "FS11-15 Majin Buu : Good",
+        "type": "Battle",
+        "cost": 2,
+        "power": 20000,
+        "traits": "Majin"
+    },
+    {
         "code": "FS11-16",
+        "color": "Yellow",
+        "cardName": "FS11-16 Hercule",
+        "type": "Battle",
+        "cost": 1,
+        "power": 5000,
+        "traits": "Earthling"
+    },
+    {
+        "code": "FS11-16-AA",
         "color": "Yellow",
         "cardName": "FS11-16 Hercule",
         "type": "Battle",
@@ -1859,6 +1995,15 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FS11-17-AA",
+        "color": "Yellow",
+        "cardName": "FS11-17 Kamehameha",
+        "type": "Extra",
+        "cost": 3,
+        "power": null,
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FS11-18",
         "color": "Yellow",
         "cardName": "FS11-18 Long-Awaited Battle to the Death",
@@ -1868,7 +2013,25 @@
         "traits": "Saiyan / Wicked Soul"
     },
     {
+        "code": "FS11-18-A",
+        "color": "Yellow",
+        "cardName": "FS11-18 Long-Awaited Battle to the Death",
+        "type": "Extra",
+        "cost": 3,
+        "power": null,
+        "traits": "Saiyan / Wicked Soul"
+    },
+    {
         "code": "FS11-12",
+        "color": "Yellow",
+        "cardName": "FS11-12 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": 5000,
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FS11-12-AA",
         "color": "Yellow",
         "cardName": "FS11-12 Vegeta",
         "type": "Battle",
