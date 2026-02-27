@@ -10,6 +10,26 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-001-AA",
+        "color": "Red",
+        "cardName": "FB09-001 Gogeta : BR",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-001-GDR",
+        "color": "Red",
+        "cardName": "FB09-001 Gogeta : BR",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-032",
         "color": "Blue",
         "cardName": "FB09-032 Son Goku",
@@ -38,6 +58,26 @@
     },
     {
         "code": "FB09-025",
+        "color": "Blue",
+        "cardName": "FB09-025 Son Goku",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-025-AA",
+        "color": "Blue",
+        "cardName": "FB09-025 Son Goku",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-025-GDR",
         "color": "Blue",
         "cardName": "FB09-025 Son Goku",
         "type": "Leader",
@@ -84,6 +124,16 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-049-AA",
+        "color": "Green",
+        "cardName": "FB09-049 Son Gohan : SH",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-062",
         "color": "Green",
         "cardName": "FB09-062 Trunks : SH",
@@ -103,6 +153,16 @@
     },
     {
         "code": "FB09-073",
+        "color": "Yellow",
+        "cardName": "FB09-073 Son Goku / Vegeta",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-073-AA",
         "color": "Yellow",
         "cardName": "FB09-073 Son Goku / Vegeta",
         "type": "Leader",
@@ -167,6 +227,16 @@
     },
     {
         "code": "FB09-097",
+        "color": "Black",
+        "cardName": "FB09-097 Gogeta : GT",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-097-AA",
         "color": "Black",
         "cardName": "FB09-097 Gogeta : GT",
         "type": "Leader",
