@@ -1468,5 +1468,11 @@
         "color": "black",
         "cardName": "E-130 Energy Marker",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-130_p1.webp"
+    },
+    {
+        "code": "E-142",
+        "color": "black",
+        "cardName": "E-142 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-142.webp"
     }
 ]
