@@ -594,7 +594,7 @@
     {
         "code": "FP-080",
         "color": "Yellow",
-        "cardName": "FB09-080 Gogeta",
+        "cardName": "FP-080 Gogeta",
         "type": "Battle",
         "cost": 6,
         "power": "40000",
@@ -603,7 +603,7 @@
     {
         "code": "FP-079",
         "color": "Red",
-        "cardName": "FB09-081 Gogeta : BR",
+        "cardName": "FP-081 Gogeta : BR",
         "type": "Battle",
         "cost": 6,
         "power": "40000",
@@ -612,7 +612,7 @@
     {
         "code": "FP-081",
         "color": "Black",
-        "cardName": "FB09-081 Gogeta : GT",
+        "cardName": "FP-081 Gogeta : GT",
         "type": "Battle",
         "cost": 6,
         "power": "40000",
