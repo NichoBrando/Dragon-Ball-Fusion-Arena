@@ -10,6 +10,16 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-001",
+        "color": "Red",
+        "cardName": "FB10-001 Son Goku",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-001-AA",
         "color": "Red",
         "cardName": "FB09-001 Gogeta : BR",
@@ -67,6 +77,16 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB10-025",
+        "color": "Blue",
+        "cardName": "FB10-025 Vegito",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Potara"
+    },
+    {
         "code": "FB09-025-AA",
         "color": "Blue",
         "cardName": "FB09-025 Son Goku",
@@ -114,6 +134,16 @@
         "traits": "Frieza Clan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB10-049",
+        "color": "Green",
+        "cardName": "FB10-049 Son Gohan : Adolescence / Piccolo",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Saiyan / Earthling / Namekian / Master's Teachings"
+    },
+    {
         "code": "FB09-049",
         "color": "Green",
         "cardName": "FB09-049 Son Gohan : SH",
@@ -143,6 +173,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-062-REGIONAL",
+        "color": "Green",
+        "cardName": "FB09-062 Trunks : SH",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-057",
         "color": "Green",
         "cardName": "FB09-057 Son Goten : SH",
@@ -160,6 +199,16 @@
         "power": "15000",
         "awakenedPower": "20000",
         "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB10-073",
+        "color": "Yellow",
+        "cardName": "FB10-073 Boujack",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Boujack Brigade"
     },
     {
         "code": "FB09-073-AA",
@@ -234,6 +283,16 @@
         "power": "15000",
         "awakenedPower": "20000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-097",
+        "color": "Black",
+        "cardName": "FB10-097 Cell",
+        "type": "Leader",
+        "cost": null,
+        "power": "15000",
+        "awakenedPower": "20000",
+        "traits": "Android"
     },
     {
         "code": "FB09-097-AA",
@@ -493,6 +552,15 @@
         "traits": "Angel / Universe"
     },
     {
+        "code": "FB09-038-REGIONAL",
+        "color": "Blue",
+        "cardName": "FB09-038 Great Priest",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Angel / Universe"
+    },
+    {
         "code": "FB09-039",
         "color": "Blue",
         "cardName": "FB09-039 Hit",
@@ -556,6 +624,15 @@
         "traits": "Android / Red Ribbon Army"
     },
     {
+        "code": "FB09-052-REGIONAL",
+        "color": "Green",
+        "cardName": "FB09-052 Gamma 2 : SH",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Android / Red Ribbon Army"
+    },
+    {
         "code": "FB09-053",
         "color": "Green",
         "cardName": "FB09-053 Krillin : SH",
@@ -566,6 +643,15 @@
     },
     {
         "code": "FB09-056",
+        "color": "Green",
+        "cardName": "FB09-056 Android 18 : SH",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB09-056-REGIONAL",
         "color": "Green",
         "cardName": "FB09-056 Android 18 : SH",
         "type": "Battle",
@@ -628,6 +714,15 @@
         "traits": "Saiyan / Another World"
     },
     {
+        "code": "FB09-092-REGIONAL",
+        "color": "Yellow",
+        "cardName": "FB09-092 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
+    },
+    {
         "code": "FB09-091",
         "color": "Yellow",
         "cardName": "FB09-091 Veku",
@@ -653,6 +748,60 @@
         "cost": 1,
         "power": "5000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-008-REGIONAL",
+        "color": "Red",
+        "cardName": "FB09-008 Son Goku : BR",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-013-AA",
+        "color": "Red",
+        "cardName": "FB10-013 Son Gohan : Youth",
+        "type": "Battle",
+        "cost": 7,
+        "power": "15000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB10-041-AA",
+        "color": "Blue",
+        "cardName": "FB10-041 Vegito",
+        "type": "Battle",
+        "cost": 7,
+        "power": "15000",
+        "traits": "Saiyan / Potara"
+    },
+    {
+        "code": "FB10-052-AA",
+        "color": "Green",
+        "cardName": "FB10-052 Son Goku",
+        "type": "Battle",
+        "cost": 7,
+        "power": "15000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB10-079-AA",
+        "color": "Yellow",
+        "cardName": "FB10-079 Zangya",
+        "type": "Battle",
+        "cost": 7,
+        "power": "15000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-113-AA",
+        "color": "Yellow",
+        "cardName": "FB10-113 Cell",
+        "type": "Battle",
+        "cost": 7,
+        "power": "15000",
+        "traits": "Android"
     },
     {
         "code": "FB09-013",
@@ -718,7 +867,7 @@
         "traits": "Saiyan / Earthling"
     },
     {
-        "code": "FB09-118",
+        "code": "FB09-118-REGIONAL",
         "color": "Black",
         "cardName": "FB09-118 Hercule : GT",
         "type": "Battle",
@@ -754,6 +903,15 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-033-REGIONAL",
+        "color": "Blue",
+        "cardName": "FB09-033 Son Goku",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-034",
         "color": "Blue",
         "cardName": "FB09-034 Son Goku",
@@ -772,7 +930,25 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-058-REGIONAL",
+        "color": "Green",
+        "cardName": "FB09-058 Son Gohan : SH",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-037",
+        "color": "Blue",
+        "cardName": "FB09-037 Son Goku",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-037-REGIONAL",
         "color": "Blue",
         "cardName": "FB09-037 Son Goku",
         "type": "Battle",
@@ -817,6 +993,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-009-REGIONAL",
+        "color": "Red",
+        "cardName": "FB09-009 Son Goku : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-003",
         "color": "Red",
         "cardName": "FB09-003 Whis : BR",
@@ -826,7 +1011,7 @@
         "traits": "Angel"
     },
     {
-        "code": "FB09-007",
+        "code": "FB09-007-Serial",
         "color": "Red",
         "cardName": "FB09-007 Gogeta : BR",
         "type": "Battle",
@@ -845,6 +1030,15 @@
     },
     {
         "code": "FB09-043",
+        "color": "Blue",
+        "cardName": "FB09-043 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
+        "code": "FB09-043-REGIONAL",
         "color": "Blue",
         "cardName": "FB09-043 Vegeta",
         "type": "Battle",
@@ -979,6 +1173,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB09-060-REGIONAL",
+        "color": "Green",
+        "cardName": "FB09-060 Son Gohan : SH",
+        "type": "Battle",
+        "cost": 8,
+        "power": "50000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB09-060-AA",
         "color": "Green",
         "cardName": "FB09-060 Son Gohan : SH",
@@ -1069,6 +1272,15 @@
         "traits": "Saiyan / Universe 7 / Tournament of Power"
     },
     {
+        "code": "FB09-047-REGIONAL",
+        "color": "Blue",
+        "cardName": "FB09-047 Divine Domain",
+        "type": "Extra",
+        "cost": 0,
+        "power": null,
+        "traits": "Saiyan / Universe 7 / Tournament of Power"
+    },
+    {
         "code": "FB09-048",
         "color": "Blue",
         "cardName": "FB09-048 A Pride Entrusted",
@@ -1079,6 +1291,15 @@
     },
     {
         "code": "FB09-080",
+        "color": "Yellow",
+        "cardName": "FB09-080 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "FB09-080-REGIONAL",
         "color": "Yellow",
         "cardName": "FB09-080 Son Goku",
         "type": "Battle",
@@ -1177,7 +1398,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB09-113",
+        "code": "FB09-113-REGIONAL",
         "color": "Black",
         "cardName": "FB09-113 Videl : GT",
         "type": "Battle",
@@ -1240,7 +1461,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB09-120",
+        "code": "FB09-120-REGIONAL",
         "color": "Black",
         "cardName": "FB09-120 Big Bang Kamehameha",
         "type": "Extra",
@@ -1321,6 +1542,15 @@
         "traits": "Kai / Another World"
     },
     {
+        "code": "FB09-074-REGIONAL",
+        "color": "Yellow",
+        "cardName": "FB09-074 North Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
         "code": "FB09-087",
         "color": "Yellow",
         "cardName": "FB09-087 West Kai",
@@ -1340,6 +1570,15 @@
     },
     {
         "code": "FB09-094",
+        "color": "Yellow",
+        "cardName": "FB09-094 South Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
+        "code": "FB09-094-REGIONAL",
         "color": "Yellow",
         "cardName": "FB09-094 South Kai",
         "type": "Battle",
@@ -1474,6 +1713,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB09-006-REGIONAL",
+        "color": "Red",
+        "cardName": "FB09-006 Gogeta : BR",
+        "type": "Battle",
+        "cost": 5,
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB09-017",
         "color": "Red",
         "cardName": "FB09-017 Veku : BR",
@@ -1529,6 +1777,15 @@
     },
     {
         "code": "FB09-023",
+        "color": "Red",
+        "cardName": "FB09-023 Torrent of Light",
+        "type": "Extra",
+        "cost": 2,
+        "power": null,
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB09-023-REGIONAL",
         "color": "Red",
         "cardName": "FB09-023 Torrent of Light",
         "type": "Extra",
@@ -2239,7 +2496,7 @@
         "traits": "Namekian / Planet Namek"
     },
     {
-        "code": "FB09-116",
+        "code": "FB09-116-REGIONAL",
         "color": "Black",
         "cardName": "FB09-116 Vegeta : GT",
         "type": "Battle",
