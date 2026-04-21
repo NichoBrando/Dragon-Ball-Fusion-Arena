@@ -9,6 +9,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-016",
+        "color": "Red",
+        "cardName": "FB10-016 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB10-040",
         "color": "Blue",
         "cardName": "FB10-040 Vegito",
@@ -16,6 +25,24 @@
         "cost": 5,
         "power": "35000",
         "traits": "Saiyan / Potara"
+    },
+    {
+        "code": "FB10-047",
+        "color": "Blue",
+        "cardName": "FB10-047 Potara",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Potara"
+    },
+    {
+        "code": "FB10-071",
+        "color": "Green",
+        "cardName": "FB10-071 Grueling Training",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Saiyan / Earthling / Training / Master's Teachings"
     },
     {
         "code": "FB10-064",
@@ -34,6 +61,24 @@
         "cost": 2,
         "power": "20000",
         "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-088",
+        "color": "Yellow",
+        "cardName": "FB10-088 Bujin",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-106",
+        "color": "Black",
+        "cardName": "FB10-106 Cell",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Android"
     },
     {
         "code": "FB10-111",
@@ -61,5 +106,14 @@
         "cost": 4,
         "power": "30000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FP-084",
+        "color": "Red",
+        "cardName": "FP-084 Glorio",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "traits": "First Demon World / Third Demon World / Demon Realm"    
     }
 ]
