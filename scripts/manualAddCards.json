@@ -9,6 +9,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-020",
+        "color": "Red",
+        "cardName": "FB10-020 Hercule",
+        "type": "Battle",
+        "cost": 3,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB10-019",
+        "color": "Red",
+        "cardName": "FB10-019 Majin Buu : Good",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Majin"
+    },
+    {
         "code": "FB10-016",
         "color": "Red",
         "cardName": "FB10-016 Vegeta",
