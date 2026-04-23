@@ -36,6 +36,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-038",
+        "color": "Blue",
+        "cardName": "FB10-038 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-031",
+        "color": "Blue",
+        "cardName": "FB10-031 Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB10-040",
         "color": "Blue",
         "cardName": "FB10-040 Vegito",
