@@ -90,6 +90,24 @@
         "traits": "Earthling"
     },
     {
+        "code": "FB10-065",
+        "color": "Green",
+        "cardName": "FB10-065 Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Namekian / Master's Teachings"
+    },
+    {
+        "code": "FB10-060",
+        "color": "Green",
+        "cardName": "FB10-060 Son Gohan : Youth",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
         "code": "FB10-078",
         "color": "Yellow",
         "cardName": "FB10-078 Zangya",
