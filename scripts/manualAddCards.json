@@ -117,6 +117,33 @@
         "traits": "Boujack Brigade"
     },
     {
+        "code": "FB10-076",
+        "color": "Yellow",
+        "cardName": "FB10-076 Gokua",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-085",
+        "color": "Yellow",
+        "cardName": "FB10-085 Bido",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-087",
+        "color": "Yellow",
+        "cardName": "FB10-087 Bujin",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Boujack Brigade"
+    },
+    {
         "code": "FB10-088",
         "color": "Yellow",
         "cardName": "FB10-088 Bujin",
