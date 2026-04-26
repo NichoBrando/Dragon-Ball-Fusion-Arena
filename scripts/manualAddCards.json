@@ -162,6 +162,33 @@
         "traits": "Android"
     },
     {
+        "code": "FB10-099",
+        "color": "Black",
+        "cardName": "FB10-099 Richest Bigwig in Ginger Town",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB10-105",
+        "color": "Black",
+        "cardName": "FB10-105 Spy Robot",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Robot"
+    },
+    {
+        "code": "FB10-120",
+        "color": "Black",
+        "cardName": "FB10-120 Cell's Egg",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-111",
         "color": "Black",
         "cardName": "FB10-111 Cell",
