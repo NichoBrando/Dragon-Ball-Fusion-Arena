@@ -189,6 +189,15 @@
         "traits": "Android"
     },
     {
+        "code": "FB10-107",
+        "color": "Black",
+        "cardName": "FB10-107 Cell",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-111",
         "color": "Black",
         "cardName": "FB10-111 Cell",
