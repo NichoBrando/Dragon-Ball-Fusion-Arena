@@ -9,6 +9,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-012",
+        "color": "Red",
+        "cardName": "FB10-012 Son Goku : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-017",
+        "color": "Red",
+        "cardName": "FB10-017 Vegeta : BR",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB10-020",
         "color": "Red",
         "cardName": "FB10-020 Hercule",
