@@ -54,6 +54,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-033",
+        "color": "Blue",
+        "cardName": "FB10-033 Trunks : Future",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB10-034",
+        "color": "Blue",
+        "cardName": "FB10-034 Trunks : Future",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB10-038",
         "color": "Blue",
         "cardName": "FB10-038 Vegeta",
@@ -97,6 +115,24 @@
         "cost": 1,
         "power": "",
         "traits": "Saiyan / Earthling / Training / Master's Teachings"
+    },
+    {
+        "code": "FB10-051",
+        "color": "Green",
+        "cardName": "FB10-051 Kami",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Namekian / God / Lookout"
+    },
+    {
+        "code": "FB10-066",
+        "color": "Green",
+        "cardName": "FB10-066 Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Namekian / Master's Teachings"
     },
     {
         "code": "FB10-064",
