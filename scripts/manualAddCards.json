@@ -153,6 +153,15 @@
         "traits": "Namekian / Master's Teachings"
     },
     {
+        "code": "FB10-050",
+        "color": "Green",
+        "cardName": "FB10-050 Son Gohan (Great Ape)",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Earthling / Great Ape"
+    },
+    {
         "code": "FB10-060",
         "color": "Green",
         "cardName": "FB10-060 Son Gohan : Youth",
@@ -168,6 +177,15 @@
         "type": "Battle",
         "cost": 2,
         "power": "20000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-096",
+        "color": "Yellow",
+        "cardName": "FB10-096 Psychic Boundary",
+        "type": "Extra",
+        "cost": 3,
+        "power": "",
         "traits": "Boujack Brigade"
     },
     {
