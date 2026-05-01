@@ -180,6 +180,15 @@
         "traits": "Boujack Brigade"
     },
     {
+        "code": "FB10-086",
+        "color": "Yellow",
+        "cardName": "FB10-086 Bido",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Boujack Brigade"
+    },
+    {
         "code": "FB10-096",
         "color": "Yellow",
         "cardName": "FB10-096 Psychic Boundary",
@@ -231,6 +240,24 @@
         "type": "Battle",
         "cost": 1,
         "power": "5000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-100",
+        "color": "Black",
+        "cardName": "FB10-100 Android 17",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-103",
+        "color": "Black",
+        "cardName": "FB10-103 Android 18",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
         "traits": "Android"
     },
     {
