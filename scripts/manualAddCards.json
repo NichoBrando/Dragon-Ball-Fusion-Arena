@@ -9,6 +9,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-006",
+        "color": "Red",
+        "cardName": "FB10-006 Krillin",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-012",
         "color": "Red",
         "cardName": "FB10-012 Son Goku : BR",
@@ -108,6 +117,15 @@
         "traits": "Potara"
     },
     {
+        "code": "FB10-046",
+        "color": "Blue",
+        "cardName": "FB10-046 Vegito Blue's Arrival",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Saiyan / Potara"
+    },
+    {
         "code": "FB10-071",
         "color": "Green",
         "cardName": "FB10-071 Grueling Training",
@@ -133,6 +151,15 @@
         "cost": 2,
         "power": "15000",
         "traits": "Namekian / Master's Teachings"
+    },
+    {
+        "code": "FB10-069",
+        "color": "Green",
+        "cardName": "FB10-069 Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Namekian / God / Master's Teachings"
     },
     {
         "code": "FB10-064",
@@ -194,6 +221,15 @@
         "cardName": "FB10-096 Psychic Boundary",
         "type": "Extra",
         "cost": 3,
+        "power": "",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-094",
+        "color": "Yellow",
+        "cardName": "FB10-094 Galaxy Soldiiers' Invasion",
+        "type": "Extra",
+        "cost": 2,
         "power": "",
         "traits": "Boujack Brigade"
     },
@@ -288,6 +324,15 @@
         "traits": "Android"
     },
     {
+        "code": "FB10-117",
+        "color": "Black",
+        "cardName": "FB10-117 Cell Games",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-107",
         "color": "Black",
         "cardName": "FB10-107 Cell",
@@ -313,6 +358,15 @@
         "cost": 1,
         "power": "5000",
         "traits": "Earthling / Adventure"
+    },
+    {
+        "code": "FP-085",
+        "color": "Green",
+        "cardName": "FP-085 Son Goku",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Greatest Showdown"
     },
     {
         "code": "FP-083",
