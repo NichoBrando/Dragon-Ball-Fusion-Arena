@@ -99,6 +99,33 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB10-026",
+        "color": "Blue",
+        "cardName": "FB10-026 Syn Shenron",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Shadow Dragon"
+    },
+    {
+        "code": "FB10-029",
+        "color": "Blue",
+        "cardName": "FB10-029 Omega Shenron",
+        "type": "Battle",
+        "cost": 7,
+        "power": "40000",
+        "traits": "Shadow Dragon"
+    },
+    {
+        "code": "FB10-048",
+        "color": "Blue",
+        "cardName": "FB10-048 Ice Ray",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Shadow Dragon"
+    },
+    {
         "code": "FB10-034",
         "color": "Blue",
         "cardName": "FB10-034 Trunks : Future",
