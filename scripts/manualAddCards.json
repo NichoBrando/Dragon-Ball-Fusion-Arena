@@ -9,6 +9,33 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-003",
+        "color": "Red",
+        "cardName": "FB10-003 King Yemma",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Another World"
+    },
+    {
+        "code": "FB10-004",
+        "color": "Red",
+        "cardName": "FB10-004 North Kai",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Kai / Another World"
+    },
+    {
+        "code": "FB10-005",
+        "color": "Red",
+        "cardName": "FB10-005 Krillin",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-006",
         "color": "Red",
         "cardName": "FB10-006 Krillin",
