@@ -118,7 +118,7 @@
     },
     {
         "code": "FB10-048",
-        "color": "Blue",
+        "color": "Blue", 
         "cardName": "FB10-048 Ice Ray",
         "type": "Extra",
         "cost": 1,
