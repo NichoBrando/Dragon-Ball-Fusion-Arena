@@ -189,6 +189,15 @@
         "traits": "Saiyan / Earthling / Training / Master's Teachings"
     },
     {
+        "code": "FB10-072",
+        "color": "Green",
+        "cardName": "FB10-072 Desperate Sacrifice",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Namekian / Master's Teachings"
+    },
+    {
         "code": "FB10-051",
         "color": "Green",
         "cardName": "FB10-051 Kami",
@@ -205,6 +214,24 @@
         "cost": 2,
         "power": "15000",
         "traits": "Namekian / Master's Teachings"
+    },
+    {
+        "code": "FB10-067",
+        "color": "Green",
+        "cardName": "FB10-067 Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Namekian / Master's Teachings"
+    },
+    {
+        "code": "FB10-068",
+        "color": "Green",
+        "cardName": "FB10-068 Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Namekian / Planet Namek / Master's Teachings"
     },
     {
         "code": "FB10-069",
