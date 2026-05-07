@@ -387,6 +387,24 @@
         "traits": "Android"
     },
     {
+        "code": "FB10-115",
+        "color": "Black",
+        "cardName": "FB10-115 Son Goku",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FB10-098",
+        "color": "Black",
+        "cardName": "FB10-098 Krillin",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Earthling / Planet Namek"
+    },
+    {
         "code": "FB10-100",
         "color": "Black",
         "cardName": "FB10-100 Android 17",
