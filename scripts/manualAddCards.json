@@ -288,6 +288,33 @@
         "traits": "Boujack Brigade"
     },
     {
+        "code": "FB10-074",
+        "color": "Yellow",
+        "cardName": "FB10-074 Angira",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Demon Clan / Slug's Gang"
+    },
+    {
+        "code": "FB10-084",
+        "color": "Yellow",
+        "cardName": "FB10-084 Dorodabo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Demon Clan / Slug's Gang"
+    },
+    {
+        "code": "FB10-075",
+        "color": "Yellow",
+        "cardName": "FB10-075 Kakuja",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Demon Clan / Slug's Gang"
+    },
+    {
         "code": "FB10-086",
         "color": "Yellow",
         "cardName": "FB10-086 Bido",
