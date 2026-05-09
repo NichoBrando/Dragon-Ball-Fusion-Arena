@@ -9,6 +9,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-014",
+        "color": "Red",
+        "cardName": "FB10-014 Everyone on Earth",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-003",
         "color": "Red",
         "cardName": "FB10-003 King Yemma",
@@ -138,6 +147,33 @@
         "code": "FB10-038",
         "color": "Blue",
         "cardName": "FB10-038 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-036",
+        "color": "Blue",
+        "cardName": "FB10-036 Bulma",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB10-037",
+        "color": "Blue",
+        "cardName": "FB10-037 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-030",
+        "color": "Blue",
+        "cardName": "FB10-030 Goku",
         "type": "Battle",
         "cost": 1,
         "power": "5000",
