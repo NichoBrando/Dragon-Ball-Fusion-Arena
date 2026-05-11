@@ -216,6 +216,33 @@
         "traits": "Saiyan / Potara"
     },
     {
+        "code": "FB10-053",
+        "color": "Green",
+        "cardName": "FB10-053 Son Gohan : Childhood",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
+        "code": "FB10-054",
+        "color": "Green",
+        "cardName": "FB10-054 Son Gohan : Childhood",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
+        "code": "FB10-055",
+        "color": "Green",
+        "cardName": "FB10-055 Son Gohan : Childhood",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
         "code": "FB10-071",
         "color": "Green",
         "cardName": "FB10-071 Grueling Training",
