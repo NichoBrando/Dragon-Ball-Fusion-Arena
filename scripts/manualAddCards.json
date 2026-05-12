@@ -360,6 +360,24 @@
         "traits": "Demon Clan / Slug's Gang"
     },
     {
+        "code": "FB10-081",
+        "color": "Yellow",
+        "cardName": "FB10-081 Slug",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Namekian / Slug's Gang"
+    },
+    {
+        "code": "FB10-080",
+        "color": "Yellow",
+        "cardName": "FB10-080 Slug",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Namekian / Slug's Gang"
+    },
+    {
         "code": "FB10-084",
         "color": "Yellow",
         "cardName": "FB10-084 Dorodabo",
@@ -439,6 +457,15 @@
         "cost": 1,
         "power": "5000",
         "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-109",
+        "color": "Black",
+        "cardName": "FB10-109 Cell",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Android"
     },
     {
         "code": "FB10-106",
