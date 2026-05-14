@@ -9,6 +9,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-002",
+        "color": "Red",
+        "cardName": "FB10-002 Upa",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB10-018",
+        "color": "Red",
+        "cardName": "FB10-018 Bora",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-014",
         "color": "Red",
         "cardName": "FB10-014 Everyone on Earth",
@@ -106,6 +124,24 @@
         "cost": 1,
         "power": "5000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB10-035",
+        "color": "Blue",
+        "cardName": "FB10-035 Trunks : Future",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB10-043",
+        "color": "Blue",
+        "cardName": "FB10-043 Mai : Future",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
     },
     {
         "code": "FB10-026",
