@@ -621,6 +621,24 @@
         "traits": "Saiyan / Greatest Showdown"
     },
     {
+        "code": "FB10-061",
+        "color": "Green",
+        "cardName": "FB10-061 Turles",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Saiyan / Turles Crusher Corps / Greatest Showdown"
+    },
+    {
+        "code": "FB10-062",
+        "color": "Green",
+        "cardName": "FB10-062 Turles",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Turles Crusher Corps / Greatest Showdown"
+    },
+    {
         "code": "FP-083",
         "color": "Blue",
         "cardName": "FP-083 Gotenks",
