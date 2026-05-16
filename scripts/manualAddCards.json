@@ -9,6 +9,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-024",
+        "color": "Red",
+        "cardName": "FB10-024 Super Genki-Dama",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-032",
+        "color": "Blue",
+        "cardName": "FB10-032 Son Goku",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB10-002",
         "color": "Red",
         "cardName": "FB10-002 Upa",
@@ -225,6 +243,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-121",
+        "color": "Blue",
+        "cardName": "FB10-121 Vegito",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
+        "traits": "Saiyan / Potara"
+    },
+    {
         "code": "FB10-040",
         "color": "Blue",
         "cardName": "FB10-040 Vegito",
@@ -250,6 +277,15 @@
         "cost": 1,
         "power": "",
         "traits": "Saiyan / Potara"
+    },
+    {
+        "code": "FB10-122",
+        "color": "Green",
+        "cardName": "FB10-122 Son Gohan : Childhood",
+        "type": "Battle",
+        "cost": 5,
+        "power": "35000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
     },
     {
         "code": "FB10-053",
@@ -313,6 +349,15 @@
         "cost": 2,
         "power": "15000",
         "traits": "Namekian / Master's Teachings"
+    },
+    {
+        "code": "FB10-070",
+        "color": "Green",
+        "cardName": "FB10-070 Piccolo",
+        "type": "Battle",
+        "cost": 5,
+        "power": "25000",
+        "traits": "Namekian / God / Master's Teachings"
     },
     {
         "code": "FB10-067",
@@ -384,6 +429,15 @@
         "type": "Battle",
         "cost": 2,
         "power": "20000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-092",
+        "color": "Yellow",
+        "cardName": "FB10-092 Boujack",
+        "type": "Battle",
+        "cost": 5,
+        "power": "35000",
         "traits": "Boujack Brigade"
     },
     {
@@ -501,6 +555,24 @@
         "type": "Battle",
         "cost": 4,
         "power": "25000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-108",
+        "color": "Black",
+        "cardName": "FB10-108 Cell",
+        "type": "Battle",
+        "cost": 1,
+        "power": "15000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-123",
+        "color": "Black",
+        "cardName": "FB10-123 Cell",
+        "type": "Battle",
+        "cost": 6,
+        "power": "40000",
         "traits": "Android"
     },
     {
