@@ -1,5 +1,55 @@
 [
     {
+        "code": "ST01-001",
+        "color": "Red",
+        "cardName": "ST01-001 Son Goten",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "ST01-027",
+        "color": "Green",
+        "cardName": "ST01-027 Majin Buu / Majin Buu : Pure Evil",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Majin",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "ST01-053",
+        "color": "Black",
+        "cardName": "ST01-053 Vegeta",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB05-025-ST01",
+        "color": "Blue",
+        "cardName": "FB05-025 Vegito",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan / Potara",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB08-073-ST01",
+        "color": "Yellow",
+        "cardName": "FB08-073 Broly",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "25000"
+    },
+    {
         "code": "FB10-011",
         "color": "Red",
         "cardName": "FB10-011 Son Goku",
@@ -7,6 +57,33 @@
         "cost": 2,
         "power": "20000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "ST01-017",
+        "color": "Red",
+        "cardName": "ST01-017 Fate Transcending Generations",
+        "type": "Extra",
+        "cost": 4,
+        "power": "",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-042",
+        "color": "Green",
+        "cardName": "ST01-042 Demonic Maze",
+        "type": "Extra",
+        "cost": 4,
+        "power": "",
+        "traits": "Majin / Absorption"
+    },
+    {
+        "code": "ST01-069",
+        "color": "Black",
+        "cardName": "ST01-069 Wicked Soul Discovered",
+        "type": "Extra",
+        "cost": 4,
+        "power": "",
+        "traits": "Saiyan / Wicked Soul / Evil Wizard"
     },
     {
         "code": "FB10-024",
