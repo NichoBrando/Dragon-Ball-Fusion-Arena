@@ -770,6 +770,51 @@
         "traits": "Saiyan / Greatest Showdown"
     },
     {
+        "code": "FP-086",
+        "color": "Red",
+        "cardName": "FP-086 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FP-087",
+        "color": "Blue",
+        "cardName": "FP-087 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FP-088",
+        "color": "Green",
+        "cardName": "FP-088 Son Gohan : Childhood",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
+        "code": "FP-089",
+        "color": "Yellow",
+        "cardName": "FP-089 Zangya",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FP-090",
+        "color": "Black",
+        "cardName": "FP-090 Cell",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-061",
         "color": "Green",
         "cardName": "FB10-061 Turles",
