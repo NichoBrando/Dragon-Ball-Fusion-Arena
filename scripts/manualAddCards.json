@@ -572,6 +572,24 @@
         "traits": "Boujack Brigade"
     },
     {
+        "code": "FB10-091",
+        "color": "Yellow",
+        "cardName": "FB10-091 Boujack",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-095",
+        "color": "Yellow",
+        "cardName": "FB10-095 Loyal Shield",
+        "type": "Extra",
+        "cost": 0,
+        "power": "",
+        "traits": "Boujack Brigade"
+    },
+    {
         "code": "FB10-096",
         "color": "Yellow",
         "cardName": "FB10-096 Psychic Boundary",
