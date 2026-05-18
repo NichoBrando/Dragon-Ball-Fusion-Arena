@@ -653,6 +653,15 @@
         "traits": "Boujack Brigade"
     },
     {
+        "code": "FB10-110",
+        "color": "Black",
+        "cardName": "FB10-110 Cell",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-109",
         "color": "Black",
         "cardName": "FB10-109 Cell",
@@ -757,6 +766,15 @@
         "cardName": "FB10-117 Cell Games",
         "type": "Extra",
         "cost": 1,
+        "power": "",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-119",
+        "color": "Black",
+        "cardName": "FB10-119 Cell's Solar Flare",
+        "type": "Extra",
+        "cost": 2,
         "power": "",
         "traits": "Android"
     },
