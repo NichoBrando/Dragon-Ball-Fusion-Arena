@@ -50,6 +50,24 @@
         "awakenedPower": "25000"
     },
     {
+        "code": "FB10-010",
+        "color": "Red",
+        "cardName": "FB10-010 Son Goku",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-008",
+        "color": "Red",
+        "cardName": "FB10-008 Android 17",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-011",
         "color": "Red",
         "cardName": "FB10-011 Son Goku",
