@@ -248,6 +248,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB10-042",
+        "color": "Blue",
+        "cardName": "FB10-042 Mai : Future",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-043",
         "color": "Blue",
         "cardName": "FB10-043 Mai : Future",
@@ -363,6 +372,15 @@
         "cost": 1,
         "power": "",
         "traits": "Potara"
+    },
+    {
+        "code": "FB10-045",
+        "color": "Blue",
+        "cardName": "FB10-045 Final Kamehameha",
+        "type": "Extra",
+        "cost": 4,
+        "power": "",
+        "traits": "Saiyan / Potara"
     },
     {
         "code": "FB10-046",
