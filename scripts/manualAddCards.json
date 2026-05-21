@@ -203,6 +203,15 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-021",
+        "color": "Red",
+        "cardName": "FB10-021 Hercule",
+        "type": "Battle",
+        "cost": 3,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-020",
         "color": "Red",
         "cardName": "FB10-020 Hercule",
@@ -300,6 +309,15 @@
         "cost": 3,
         "power": "20000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB10-039",
+        "color": "Blue",
+        "cardName": "FB10-039 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "25000",
+        "traits": "Saiyan"
     },
     {
         "code": "FB10-038",
@@ -563,6 +581,15 @@
         "traits": "Demon Clan / Slug's Gang"
     },
     {
+        "code": "FB10-082",
+        "color": "Yellow",
+        "cardName": "FB10-082 Slug",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Namekian / Slug's Gang"
+    },
+    {
         "code": "FB10-081",
         "color": "Yellow",
         "cardName": "FB10-081 Slug",
@@ -752,6 +779,15 @@
         "traits": "Earthling / Planet Namek"
     },
     {
+        "code": "FB10-102",
+        "color": "Black",
+        "cardName": "FB10-102 Android 17 / Android 18",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-100",
         "color": "Black",
         "cardName": "FB10-100 Android 17",
@@ -867,6 +903,15 @@
         "cost": 1,
         "power": "5000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-059",
+        "color": "Green",
+        "cardName": "FB10-059 Son Gohan : Future",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
     },
     {
         "code": "FP-088",
