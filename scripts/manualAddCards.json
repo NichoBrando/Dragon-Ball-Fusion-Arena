@@ -392,6 +392,15 @@
         "traits": "Saiyan / Potara"
     },
     {
+        "code": "FB10-044",
+        "color": "Blue",
+        "cardName": "FB10-044 Saiyan Prince",
+        "type": "Extra",
+        "cost": 2,
+        "power": "",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB10-047",
         "color": "Blue",
         "cardName": "FB10-047 Potara",
@@ -417,6 +426,24 @@
         "cost": 1,
         "power": "",
         "traits": "Saiyan / Potara"
+    },
+    {
+        "code": "FB10-056",
+        "color": "Green",
+        "cardName": "FB10-056 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": 4,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
+        "code": "FB10-057",
+        "color": "Green",
+        "cardName": "FB10-057 Son Gohan : Adolescence / Piccolo",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Namekian / God / Master's Teachings"
     },
     {
         "code": "FB10-122",
@@ -723,6 +750,24 @@
         "cost": 1,
         "power": "5000",
         "traits": "Boujack Brigade"
+    },
+    {
+        "code": "FB10-089",
+        "color": "Yellow",
+        "cardName": "FB10-089 Vegeta",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-090",
+        "color": "Yellow",
+        "cardName": "FB10-090 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Wicked Soul"
     },
     {
         "code": "FB10-110",
