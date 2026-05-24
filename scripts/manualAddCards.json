@@ -779,6 +779,33 @@
         "traits": "Android"
     },
     {
+        "code": "FB10-114",
+        "color": "Black",
+        "cardName": "FB10-114 Cell Jr.",
+        "type": "Battle",
+        "cost": 2,
+        "power": "15000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-112",
+        "color": "Black",
+        "cardName": "FB10-112 Cell",
+        "type": "Battle",
+        "cost": 6,
+        "power": "30000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-118",
+        "color": "Black",
+        "cardName": "FB10-118 Cell's Kamehameha",
+        "type": "Extra",
+        "cost": 3,
+        "power": "",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-109",
         "color": "Black",
         "cardName": "FB10-109 Cell",
