@@ -149,6 +149,24 @@
         "traits": "Earthling"
     },
     {
+        "code": "FB10-009",
+        "color": "Red",
+        "cardName": "FB10-009 Suno",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB10-007",
+        "color": "Red",
+        "cardName": "FB10-007 Android 8",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-003",
         "color": "Red",
         "cardName": "FB10-003 King Yemma",
