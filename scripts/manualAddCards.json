@@ -896,11 +896,29 @@
         "traits": "Android"
     },
     {
+        "code": "FB10-101",
+        "color": "Black",
+        "cardName": "FB10-101 Android 17",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Android"
+    },
+    {
         "code": "FB10-103",
         "color": "Black",
         "cardName": "FB10-103 Android 18",
         "type": "Battle",
         "cost": 2,
+        "power": "10000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB10-104",
+        "color": "Black",
+        "cardName": "FB10-104 Android 18",
+        "type": "Battle",
+        "cost": 1,
         "power": "10000",
         "traits": "Android"
     },
