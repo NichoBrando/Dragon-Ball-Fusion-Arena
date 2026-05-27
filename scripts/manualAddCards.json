@@ -392,6 +392,15 @@
         "traits": "Saiyan / Potara"
     },
     {
+        "code": "FP-091-WINNER",
+        "color": "Blue",
+        "cardName": "FP-091 Vegito",
+        "type": "Battle",
+        "cost": 5,
+        "power": "30000",
+        "traits": "Saiyan / Potara"
+    },
+    {
         "code": "FB10-121",
         "color": "Blue",
         "cardName": "FB10-121 Vegito",
