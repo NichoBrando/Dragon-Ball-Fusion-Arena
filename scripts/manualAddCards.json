@@ -104,6 +104,24 @@
         "traits": "Saiyan / Wicked Soul / Evil Wizard"
     },
     {
+        "code": "FB10-023",
+        "color": "Red",
+        "cardName": "FB10-023 Thanks, Dragon Ball!!!",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Saiyan / Shenron"
+    },
+    {
+        "code": "FB10-022",
+        "color": "Red",
+        "cardName": "FB10-022 The Savior's Roar",
+        "type": "Extra",
+        "cost": 1,
+        "power": "",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB10-024",
         "color": "Red",
         "cardName": "FB10-024 Super Genki-Dama",
@@ -156,6 +174,15 @@
         "cost": 2,
         "power": "5000",
         "traits": "Earthling"
+    },
+    {
+        "code": "FB10-015",
+        "color": "Red",
+        "cardName": "FB10-015 Dende",
+        "type": "Battle",
+        "cost": 2,
+        "power": "5000",
+        "traits": "Namekian / God"
     },
     {
         "code": "FB10-007",
