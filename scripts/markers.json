@@ -1474,5 +1474,119 @@
         "color": "black",
         "cardName": "E-142 Energy Marker",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-142.webp"
+    },
+    {
+        "code": "E-132",
+        "color": "black",
+        "cardName": "E-132 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-132.webp"
+    },
+    {
+        "code": "E-133",
+        "color": "black",
+        "cardName": "E-133 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-133.webp"
+    },
+    {
+        "code": "E-134",
+        "color": "black",
+        "cardName": "E-134 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-134.webp"
+    },
+    {
+        "code": "E-135",
+        "color": "black",
+        "cardName": "E-135 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-135.webp"
+    },
+    {
+        "code": "E-136",
+        "color": "black",
+        "cardName": "E-136 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-136.webp"
+    },
+    {
+        "code": "E-137",
+        "color": "black",
+        "cardName": "E-137 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-137.webp"
+    },
+    {
+        "code": "E-138",
+        "color": "black",
+        "cardName": "E-138 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-138.webp"
+    },
+    {
+        "code": "E-139",
+        "color": "black",
+        "cardName": "E-139 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-139.webp"
+    },
+    {
+        "code": "E-141",
+        "color": "black",
+        "cardName": "E-141 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-141.webp"
+    },
+    {
+        "code": "E-143",
+        "color": "black",
+        "cardName": "E-143 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-143.webp"
+    },
+    {
+        "code": "E-144",
+        "color": "black",
+        "cardName": "E-144 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-144.webp"
+    },
+    {
+        "code": "E-145",
+        "color": "black",
+        "cardName": "E-145 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-145.webp"
+    },
+    {
+        "code": "E-146",
+        "color": "black",
+        "cardName": "E-146 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-146.webp"
+    },
+    {
+        "code": "E-147",
+        "color": "black",
+        "cardName": "E-147 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-147.webp"
+    },
+    {
+        "code": "E-143_p1",
+        "color": "black",
+        "cardName": "E-143 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-143_p1.webp"
+    },
+    {
+        "code": "E-144_p1",
+        "color": "black",
+        "cardName": "E-144 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-144_p1.webp"
+    },
+    {
+        "code": "E-145_p1",
+        "color": "black",
+        "cardName": "E-145 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-145_p1.webp"
+    },
+    {
+        "code": "E-146_p1",
+        "color": "black",
+        "cardName": "E-146 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-146_p1.webp"
+    },
+    {
+        "code": "E-147_p1",
+        "color": "black",
+        "cardName": "E-147 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-147_p1.webp"
     }
 ]
