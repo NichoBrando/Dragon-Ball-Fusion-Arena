@@ -10,6 +10,56 @@
         "awakenedPower": "20000"
     },
     {
+        "code": "FB10-001-AA",
+        "color": "Red",
+        "cardName": "FB10-001 Son Goku",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB10-025-AA",
+        "color": "Blue",
+        "cardName": "FB10-025 Vegito",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan / Potara",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB10-049-AA",
+        "color": "Green",
+        "cardName": "FB10-049 Son Gohan : Adolescence / Piccolo",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan / Earthling / Namekian / God / Master's Teachings",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB10-073-AA",
+        "color": "Yellow",
+        "cardName": "FB10-073 Boujack",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Boujack Brigade",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB10-097-AA",
+        "color": "Black",
+        "cardName": "FB10-097 Cell",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Android",
+        "awakenedPower": "20000"
+    },
+    {
         "code": "ST01-027",
         "color": "Green",
         "cardName": "ST01-027 Majin Buu / Majin Buu : Pure Evil",
@@ -68,7 +118,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-011",
+        "code": "FB10-011-AA",
         "color": "Red",
         "cardName": "FB10-011 Son Goku",
         "type": "Battle",
@@ -122,7 +172,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-024",
+        "code": "FB10-024-AA",
         "color": "Red",
         "cardName": "FB10-024 Super Genki-Dama",
         "type": "Extra",
@@ -158,7 +208,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-014",
+        "code": "FB10-014-AA",
         "color": "Red",
         "cardName": "FB10-014 Everyone on Earth",
         "type": "Battle",
@@ -248,7 +298,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB10-021",
+        "code": "FB10-021-AA",
         "color": "Red",
         "cardName": "FB10-021 Hercule",
         "type": "Battle",
@@ -356,7 +406,7 @@
         "traits": "Saiyan / Earthling"
     },
     {
-        "code": "FB10-039",
+        "code": "FB10-039-AA",
         "color": "Blue",
         "cardName": "FB10-039 Vegeta",
         "type": "Battle",
@@ -428,7 +478,7 @@
         "traits": "Saiyan / Potara"
     },
     {
-        "code": "FB10-121",
+        "code": "FB10-121-AA",
         "color": "Blue",
         "cardName": "FB10-121 Vegito",
         "type": "Battle",
@@ -437,7 +487,7 @@
         "traits": "Saiyan / Potara"
     },
     {
-        "code": "FB10-040",
+        "code": "FB10-040-AA",
         "color": "Blue",
         "cardName": "FB10-040 Vegito",
         "type": "Battle",
@@ -500,7 +550,7 @@
         "traits": "Saiyan / Earthling / Namekian / God / Master's Teachings"
     },
     {
-        "code": "FB10-122",
+        "code": "FB10-122-AA",
         "color": "Green",
         "cardName": "FB10-122 Son Gohan : Childhood",
         "type": "Battle",
@@ -572,7 +622,7 @@
         "traits": "Namekian / Master's Teachings"
     },
     {
-        "code": "FB10-070",
+        "code": "FB10-070-AA",
         "color": "Green",
         "cardName": "FB10-070 Piccolo",
         "type": "Battle",
@@ -608,7 +658,7 @@
         "traits": "Namekian / God / Master's Teachings"
     },
     {
-        "code": "FB10-064",
+        "code": "FB10-064-AA",
         "color": "Green",
         "cardName": "FB10-064 Videl",
         "type": "Battle",
@@ -644,7 +694,7 @@
         "traits": "Saiyan / Earthling / Master's Teachings"
     },
     {
-        "code": "FB10-078",
+        "code": "FB10-078-AA",
         "color": "Yellow",
         "cardName": "FB10-078 Zangya",
         "type": "Battle",
@@ -653,7 +703,7 @@
         "traits": "Boujack Brigade"
     },
     {
-        "code": "FB10-092",
+        "code": "FB10-092-AA",
         "color": "Yellow",
         "cardName": "FB10-092 Boujack",
         "type": "Battle",
@@ -671,7 +721,7 @@
         "traits": "Demon Clan / Slug's Gang"
     },
     {
-        "code": "FB10-082",
+        "code": "FB10-082-AA",
         "color": "Yellow",
         "cardName": "FB10-082 Slug",
         "type": "Battle",
@@ -869,7 +919,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-108",
+        "code": "FB10-108-AA",
         "color": "Black",
         "cardName": "FB10-108 Cell",
         "type": "Battle",
@@ -878,7 +928,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-123",
+        "code": "FB10-123-AA",
         "color": "Black",
         "cardName": "FB10-123 Cell",
         "type": "Battle",
@@ -914,7 +964,7 @@
         "traits": "Earthling / Planet Namek"
     },
     {
-        "code": "FB10-102",
+        "code": "FB10-102-AA",
         "color": "Black",
         "cardName": "FB10-102 Android 17 / Android 18",
         "type": "Battle",
@@ -1013,7 +1063,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-111",
+        "code": "FB10-111-AA",
         "color": "Black",
         "cardName": "FB10-111 Cell",
         "type": "Battle",
@@ -1058,7 +1108,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB10-059",
+        "code": "FB10-059-AA",
         "color": "Green",
         "cardName": "FB10-059 Son Gohan : Future",
         "type": "Battle",
