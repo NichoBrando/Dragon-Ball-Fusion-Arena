@@ -1108,6 +1108,69 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB10-027",
+        "color": "Blue",
+        "cardName": "FB10-027 Gowasu",
+        "type": "Battle",
+        "cost": 1,
+        "power": "15000",
+        "traits": "Supreme Kai"
+    },
+    {
+        "code": "FB10-028",
+        "color": "Blue",
+        "cardName": "FB10-028 Shin",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Supreme Kai"
+    },
+    {
+        "code": "FB10-058",
+        "color": "Green",
+        "cardName": "FB10-058 Son Gohan : Future",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
+        "code": "FB10-063",
+        "color": "Green",
+        "cardName": "FB10-063 Nail",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Namekian / Planet Namek"
+    },
+    {
+        "code": "FB10-116",
+        "color": "Black",
+        "cardName": "FB10-116 Piccolo",
+        "type": "Battle",
+        "cost": 1,
+        "power": "15000",
+        "traits": "Namekian / God"
+    },
+    {
+        "code": "FB10-093",
+        "color": "Yellow",
+        "cardName": "FB10-093 Medamacha",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Demon Clan / Slug's Gang"
+    },
+    {
+        "code": "FB10-083",
+        "color": "Yellow",
+        "cardName": "FB10-083 Zeiun",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Demon Clan / Slug's Gang"
+    },
+    {
         "code": "FP-087",
         "color": "Blue",
         "cardName": "FP-087 Vegeta",
