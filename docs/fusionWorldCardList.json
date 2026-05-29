@@ -84216,5 +84216,538 @@
     "type": "Battle",
     "cost": 2,
     "color": "Red"
+  },
+  "FB10-001-AA": {
+    "id": "FB10-001-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-001 Son Goku",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-001-AA.webp",
+        "isHorizontal": false,
+        "power": 15000,
+        "combo": null,
+        "traits": "Saiyan",
+        "color": "Red"
+      },
+      "back": {
+        "name": "FB10-001 Son Goku",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-001-AA-b.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "traits": "Saiyan",
+        "color": "Red"
+      }
+    },
+    "name": "FB10-001 Son Goku",
+    "type": "Leader",
+    "cost": "null",
+    "color": "Red"
+  },
+  "FB10-025-AA": {
+    "id": "FB10-025-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-025 Vegito",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-025-AA.webp",
+        "isHorizontal": false,
+        "power": 15000,
+        "combo": null,
+        "traits": "Saiyan / Potara",
+        "color": "Blue"
+      },
+      "back": {
+        "name": "FB10-025 Vegito",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-025-AA-b.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "traits": "Saiyan / Potara",
+        "color": "Blue"
+      }
+    },
+    "name": "FB10-025 Vegito",
+    "type": "Leader",
+    "cost": "null",
+    "color": "Blue"
+  },
+  "FB10-049-AA": {
+    "id": "FB10-049-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-049 Son Gohan : Adolescence / Piccolo",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-049-AA.webp",
+        "isHorizontal": false,
+        "power": 15000,
+        "combo": null,
+        "traits": "Saiyan / Earthling / Namekian / God / Master's Teachings",
+        "color": "Green"
+      },
+      "back": {
+        "name": "FB10-049 Son Gohan : Adolescence / Piccolo",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-049-AA-b.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "traits": "Saiyan / Earthling / Namekian / God / Master's Teachings",
+        "color": "Green"
+      }
+    },
+    "name": "FB10-049 Son Gohan : Adolescence / Piccolo",
+    "type": "Leader",
+    "cost": "null",
+    "color": "Green"
+  },
+  "FB10-073-AA": {
+    "id": "FB10-073-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-073 Boujack",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-073-AA.webp",
+        "isHorizontal": false,
+        "power": 15000,
+        "combo": null,
+        "traits": "Boujack Brigade",
+        "color": "Yellow"
+      },
+      "back": {
+        "name": "FB10-073 Boujack",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-073-AA-b.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "traits": "Boujack Brigade",
+        "color": "Yellow"
+      }
+    },
+    "name": "FB10-073 Boujack",
+    "type": "Leader",
+    "cost": "null",
+    "color": "Yellow"
+  },
+  "FB10-097-AA": {
+    "id": "FB10-097-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-097 Cell",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-097-AA.webp",
+        "isHorizontal": false,
+        "power": 15000,
+        "combo": null,
+        "traits": "Android",
+        "color": "Black"
+      },
+      "back": {
+        "name": "FB10-097 Cell",
+        "type": "Leader",
+        "cost": "null",
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-097-AA-b.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "traits": "Android",
+        "color": "Black"
+      }
+    },
+    "name": "FB10-097 Cell",
+    "type": "Leader",
+    "cost": "null",
+    "color": "Black"
+  },
+  "FB10-011-AA": {
+    "id": "FB10-011-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-011 Son Goku",
+        "type": "Battle",
+        "cost": 2,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-011-AA.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "combo": null,
+        "traits": "Saiyan",
+        "color": "Red"
+      }
+    },
+    "name": "FB10-011 Son Goku",
+    "type": "Battle",
+    "cost": 2,
+    "color": "Red"
+  },
+  "FB10-024-AA": {
+    "id": "FB10-024-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-024 Super Genki-Dama",
+        "type": "Extra",
+        "cost": 1,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-024-AA.webp",
+        "isHorizontal": false,
+        "power": 0,
+        "combo": null,
+        "traits": "Saiyan",
+        "color": "Red"
+      }
+    },
+    "name": "FB10-024 Super Genki-Dama",
+    "type": "Extra",
+    "cost": 1,
+    "color": "Red"
+  },
+  "FB10-014-AA": {
+    "id": "FB10-014-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-014 Everyone on Earth",
+        "type": "Battle",
+        "cost": 2,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-014-AA.webp",
+        "isHorizontal": false,
+        "power": 5000,
+        "combo": null,
+        "traits": "Earthling",
+        "color": "Red"
+      }
+    },
+    "name": "FB10-014 Everyone on Earth",
+    "type": "Battle",
+    "cost": 2,
+    "color": "Red"
+  },
+  "FB10-021-AA": {
+    "id": "FB10-021-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-021 Hercule",
+        "type": "Battle",
+        "cost": 3,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-021-AA.webp",
+        "isHorizontal": false,
+        "power": 5000,
+        "combo": null,
+        "traits": "Earthling",
+        "color": "Red"
+      }
+    },
+    "name": "FB10-021 Hercule",
+    "type": "Battle",
+    "cost": 3,
+    "color": "Red"
+  },
+  "FB10-039-AA": {
+    "id": "FB10-039-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-039 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-039-AA.webp",
+        "isHorizontal": false,
+        "power": 25000,
+        "combo": null,
+        "traits": "Saiyan",
+        "color": "Blue"
+      }
+    },
+    "name": "FB10-039 Vegeta",
+    "type": "Battle",
+    "cost": 4,
+    "color": "Blue"
+  },
+  "FB10-121-AA": {
+    "id": "FB10-121-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-121 Vegito",
+        "type": "Battle",
+        "cost": 6,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-121-AA.webp",
+        "isHorizontal": false,
+        "power": 40000,
+        "combo": null,
+        "traits": "Saiyan / Potara",
+        "color": "Blue"
+      }
+    },
+    "name": "FB10-121 Vegito",
+    "type": "Battle",
+    "cost": 6,
+    "color": "Blue"
+  },
+  "FB10-040-AA": {
+    "id": "FB10-040-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-040 Vegito",
+        "type": "Battle",
+        "cost": 5,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-040-AA.webp",
+        "isHorizontal": false,
+        "power": 35000,
+        "combo": null,
+        "traits": "Saiyan / Potara",
+        "color": "Blue"
+      }
+    },
+    "name": "FB10-040 Vegito",
+    "type": "Battle",
+    "cost": 5,
+    "color": "Blue"
+  },
+  "FB10-122-AA": {
+    "id": "FB10-122-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-122 Son Gohan : Childhood",
+        "type": "Battle",
+        "cost": 5,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-122-AA.webp",
+        "isHorizontal": false,
+        "power": 35000,
+        "combo": null,
+        "traits": "Saiyan / Earthling / Master's Teachings",
+        "color": "Green"
+      }
+    },
+    "name": "FB10-122 Son Gohan : Childhood",
+    "type": "Battle",
+    "cost": 5,
+    "color": "Green"
+  },
+  "FB10-070-AA": {
+    "id": "FB10-070-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-070 Piccolo",
+        "type": "Battle",
+        "cost": 5,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-070-AA.webp",
+        "isHorizontal": false,
+        "power": 25000,
+        "combo": null,
+        "traits": "Namekian / God / Master's Teachings",
+        "color": "Green"
+      }
+    },
+    "name": "FB10-070 Piccolo",
+    "type": "Battle",
+    "cost": 5,
+    "color": "Green"
+  },
+  "FB10-064-AA": {
+    "id": "FB10-064-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-064 Videl",
+        "type": "Battle",
+        "cost": 1,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-064-AA.webp",
+        "isHorizontal": false,
+        "power": 5000,
+        "combo": null,
+        "traits": "Earthling",
+        "color": "Green"
+      }
+    },
+    "name": "FB10-064 Videl",
+    "type": "Battle",
+    "cost": 1,
+    "color": "Green"
+  },
+  "FB10-078-AA": {
+    "id": "FB10-078-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-078 Zangya",
+        "type": "Battle",
+        "cost": 2,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-078-AA.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "combo": null,
+        "traits": "Boujack Brigade",
+        "color": "Yellow"
+      }
+    },
+    "name": "FB10-078 Zangya",
+    "type": "Battle",
+    "cost": 2,
+    "color": "Yellow"
+  },
+  "FB10-092-AA": {
+    "id": "FB10-092-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-092 Boujack",
+        "type": "Battle",
+        "cost": 5,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-092-AA.webp",
+        "isHorizontal": false,
+        "power": 35000,
+        "combo": null,
+        "traits": "Boujack Brigade",
+        "color": "Yellow"
+      }
+    },
+    "name": "FB10-092 Boujack",
+    "type": "Battle",
+    "cost": 5,
+    "color": "Yellow"
+  },
+  "FB10-082-AA": {
+    "id": "FB10-082-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-082 Slug",
+        "type": "Battle",
+        "cost": 3,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-082-AA.webp",
+        "isHorizontal": false,
+        "power": 25000,
+        "combo": null,
+        "traits": "Namekian / Slug's Gang",
+        "color": "Yellow"
+      }
+    },
+    "name": "FB10-082 Slug",
+    "type": "Battle",
+    "cost": 3,
+    "color": "Yellow"
+  },
+  "FB10-108-AA": {
+    "id": "FB10-108-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-108 Cell",
+        "type": "Battle",
+        "cost": 1,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-108-AA.webp",
+        "isHorizontal": false,
+        "power": 15000,
+        "combo": null,
+        "traits": "Android",
+        "color": "Black"
+      }
+    },
+    "name": "FB10-108 Cell",
+    "type": "Battle",
+    "cost": 1,
+    "color": "Black"
+  },
+  "FB10-123-AA": {
+    "id": "FB10-123-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-123 Cell",
+        "type": "Battle",
+        "cost": 6,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-123-AA.webp",
+        "isHorizontal": false,
+        "power": 40000,
+        "combo": null,
+        "traits": "Android",
+        "color": "Black"
+      }
+    },
+    "name": "FB10-123 Cell",
+    "type": "Battle",
+    "cost": 6,
+    "color": "Black"
+  },
+  "FB10-102-AA": {
+    "id": "FB10-102-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-102 Android 17 / Android 18",
+        "type": "Battle",
+        "cost": 2,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-102-AA.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "combo": null,
+        "traits": "Android",
+        "color": "Black"
+      }
+    },
+    "name": "FB10-102 Android 17 / Android 18",
+    "type": "Battle",
+    "cost": 2,
+    "color": "Black"
+  },
+  "FB10-111-AA": {
+    "id": "FB10-111-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-111 Cell",
+        "type": "Battle",
+        "cost": 6,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-111-AA.webp",
+        "isHorizontal": false,
+        "power": 35000,
+        "combo": null,
+        "traits": "Android",
+        "color": "Black"
+      }
+    },
+    "name": "FB10-111 Cell",
+    "type": "Battle",
+    "cost": 6,
+    "color": "Black"
+  },
+  "FB10-059-AA": {
+    "id": "FB10-059-AA",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FB10-059 Son Gohan : Future",
+        "type": "Battle",
+        "cost": 2,
+        "image": "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/FB10/FB10-059-AA.webp",
+        "isHorizontal": false,
+        "power": 20000,
+        "combo": null,
+        "traits": "Saiyan / Earthling / Master's Teachings",
+        "color": "Green"
+      }
+    },
+    "name": "FB10-059 Son Gohan : Future",
+    "type": "Battle",
+    "cost": 2,
+    "color": "Green"
   }
 }
