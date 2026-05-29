@@ -181,7 +181,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB10-032",
+        "code": "FB10-032-AA",
         "color": "Blue",
         "cardName": "FB10-032 Son Goku",
         "type": "Battle",
@@ -271,7 +271,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-006",
+        "code": "FB10-006-AA",
         "color": "Red",
         "cardName": "FB10-006 Krillin",
         "type": "Battle",
@@ -478,7 +478,7 @@
         "traits": "Saiyan / Potara"
     },
     {
-        "code": "FB10-121-AA",
+        "code": "FB10-121-SAA",
         "color": "Blue",
         "cardName": "FB10-121 Vegito",
         "type": "Battle",
@@ -496,6 +496,15 @@
         "traits": "Saiyan / Potara"
     },
     {
+        "code": "FB10-040-UB",
+        "color": "Blue",
+        "cardName": "FB10-040 Vegito",
+        "type": "Battle",
+        "cost": 5,
+        "power": "35000",
+        "traits": "Saiyan / Potara"
+    },
+    {
         "code": "FB10-044",
         "color": "Blue",
         "cardName": "FB10-044 Saiyan Prince",
@@ -505,7 +514,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB10-047",
+        "code": "FB10-047-AA",
         "color": "Blue",
         "cardName": "FB10-047 Potara",
         "type": "Extra",
@@ -541,7 +550,7 @@
         "traits": "Saiyan / Earthling / Master's Teachings"
     },
     {
-        "code": "FB10-057",
+        "code": "FB10-057-AA",
         "color": "Green",
         "cardName": "FB10-057 Son Gohan : Adolescence / Piccolo",
         "type": "Battle",
@@ -550,7 +559,7 @@
         "traits": "Saiyan / Earthling / Namekian / God / Master's Teachings"
     },
     {
-        "code": "FB10-122-AA",
+        "code": "FB10-122-SAA",
         "color": "Green",
         "cardName": "FB10-122 Son Gohan : Childhood",
         "type": "Battle",
@@ -730,7 +739,7 @@
         "traits": "Namekian / Slug's Gang"
     },
     {
-        "code": "FB10-081",
+        "code": "FB10-081-AA",
         "color": "Yellow",
         "cardName": "FB10-081 Slug",
         "type": "Battle",
@@ -775,7 +784,7 @@
         "traits": "Boujack Brigade"
     },
     {
-        "code": "FB10-091",
+        "code": "FB10-091-AA",
         "color": "Yellow",
         "cardName": "FB10-091 Boujack",
         "type": "Battle",
@@ -892,7 +901,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-112",
+        "code": "FB10-112-AA",
         "color": "Black",
         "cardName": "FB10-112 Cell",
         "type": "Battle",
@@ -928,7 +937,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-123-AA",
+        "code": "FB10-123-SAA",
         "color": "Black",
         "cardName": "FB10-123 Cell",
         "type": "Battle",
@@ -1000,7 +1009,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-104",
+        "code": "FB10-104-AA",
         "color": "Black",
         "cardName": "FB10-104 Android 18",
         "type": "Battle",
