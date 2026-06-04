@@ -496,6 +496,15 @@
         "traits": "Saiyan / Potara"
     },
     {
+        "code": "FP-092",
+        "color": "Blue",
+        "cardName": "FP-092 Son Gohan : SH",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
         "code": "FP-091-WINNER",
         "color": "Blue",
         "cardName": "FP-091 Vegito",
