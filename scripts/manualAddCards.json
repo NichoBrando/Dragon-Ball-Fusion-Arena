@@ -100,6 +100,33 @@
         "awakenedPower": "25000"
     },
     {
+        "code": "ST01-012",
+        "color": "Red",
+        "cardName": "ST01-012 Trunks : Youth",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-040",
+        "color": "Green",
+        "cardName": "ST01-040 Majin Buu : Pure Evil",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Majin"
+    },
+    {
+        "code": "ST01-059",
+        "color": "Black",
+        "cardName": "ST01-059 Babidi",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Evil Wizard"
+    },
+    {
         "code": "FB10-010",
         "color": "Red",
         "cardName": "FB10-010 Son Goku",
