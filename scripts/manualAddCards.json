@@ -1,5 +1,24 @@
 [
     {
+        "code": "FB11-073",
+        "color": "Yellow",
+        "cardName": "FB11-073 Shallet",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB11-084",
+        "color": "Yellow",
+        "cardName": "FB11-084 Giblet",
+        "type": "Battle",
+        "cost": "5",
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "ST01-001",
         "color": "Red",
         "cardName": "ST01-001 Son Goten",
