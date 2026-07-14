@@ -785,6 +785,24 @@
         "traits": "Namekian / God / Master's Teachings"
     },
     {
+        "code": "ST01-064",
+        "color": "Black",
+        "cardName": "ST01-064 Vegeta",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "ST01-013",
+        "color": "Red",
+        "cardName": "ST01-013 Trunks : Youth",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB10-064-AA",
         "color": "Green",
         "cardName": "FB10-064 Videl",
