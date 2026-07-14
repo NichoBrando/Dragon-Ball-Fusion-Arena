@@ -19,6 +19,51 @@
         "traits": "Saiyan"
     },
     {
+        "code": "FB11-085",
+        "color": "Yellow",
+        "cardName": "FB11-085 Shallot",
+        "type": "Battle",
+        "cost": "2",
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-077",
+        "color": "Yellow",
+        "cardName": "FB11-077 Goku Black",
+        "type": "Battle",
+        "cost": "2",
+        "power": "15000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-091",
+        "color": "Yellow",
+        "cardName": "FB11-091 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-088",
+        "color": "Yellow",
+        "cardName": "FB11-088 Shallot",
+        "type": "Battle",
+        "cost": "5",
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-088-AA",
+        "color": "Yellow",
+        "cardName": "FB11-088 Shallot",
+        "type": "Battle",
+        "cost": "5",
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "ST01-001",
         "color": "Red",
         "cardName": "ST01-001 Son Goten",
@@ -522,6 +567,24 @@
         "cost": 3,
         "power": "25000",
         "traits": "Saiyan / Earthling / Master's Teachings"
+    },
+    {
+        "code": "FP-093",
+        "color": "Blue",
+        "cardName": "FP-093 Kefla",
+        "type": "Battle",
+        "cost": 5,
+        "power": "35000",
+        "traits": "Saiyan / Universe 6 / Potara / Tournament of Power"
+    },
+    {
+        "code": "FP-094",
+        "color": "Black",
+        "cardName": "FP-094 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Wicked Soul"
     },
     {
         "code": "FP-091-WINNER",
