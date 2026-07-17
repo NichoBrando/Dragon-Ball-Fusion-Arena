@@ -794,6 +794,24 @@
         "traits": "Saiyan"
     },
     {
+        "code": "ST01-006",
+        "color": "Red",
+        "cardName": "ST01-006 Son Goten",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-039",
+        "color": "Green",
+        "cardName": "ST01-039 Majin Buu : Kid",
+        "type": "Battle",
+        "cost": 6,
+        "power": "35000",
+        "traits": "Majin / Absorption"
+    },
+    {
         "code": "ST01-013",
         "color": "Red",
         "cardName": "ST01-013 Trunks : Youth",
