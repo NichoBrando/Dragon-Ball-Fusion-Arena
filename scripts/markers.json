@@ -1588,5 +1588,71 @@
         "color": "black",
         "cardName": "E-147 Energy Marker",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/E-147_p1.webp"
+    },
+    {
+        "code": "E-160",
+        "color": "black",
+        "cardName": "E-160 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/Kx70zwEmHa7ssEpG/EN_FW_E-161_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-161",
+        "color": "black",
+        "cardName": "E-161 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/Kx70zwEmHa7ssEpG/EN_FW_E-161_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-162",
+        "color": "black",
+        "cardName": "E-162 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/TMBzywvAK0SMoUze/EN_FW_E-162_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-163",
+        "color": "black",
+        "cardName": "E-163 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/OYv3NFeKIZult2a2/EN_FW_E-163_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-164",
+        "color": "black",
+        "cardName": "E-164 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/eAmC4xlK2XtoIGcq/EN_FW_E-164_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-165",
+        "color": "black",
+        "cardName": "E-165 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/F4YvpUS58XlyhyBQ/EN_FW_E-165_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-166",
+        "color": "black",
+        "cardName": "E-166 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/agKCZJpWRWMFoleu/EN_FW_E-166_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-167",
+        "color": "black",
+        "cardName": "E-167 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/T1KL8e8L7bmBY74N/EN_FW_E-167_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-168",
+        "color": "black",
+        "cardName": "E-168 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/AMBrl7pesCOz3HyC/EN_FW_E-168_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-169",
+        "color": "black",
+        "cardName": "E-169 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/S7lNJ4qhLQOb3UWC/EN_FW_E-169_Energy_dummy_s.webp"    
+    },
+    {
+        "code": "E-170",
+        "color": "black",
+        "cardName": "E-170 Energy Marker",
+        "image": "https://www.dbs-cardgame.com/fw/bccard/en/news/2026/07/08/MoCPJo3fMBlcmMXx/EN_FW_E-170_Energy_dummy_s.webp"    
     }
 ]

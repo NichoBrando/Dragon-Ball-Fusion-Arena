@@ -10,6 +10,46 @@
         "awakenedPower": "20000"
     },
     {
+        "code": "FB11-001",
+        "color": "Red",
+        "cardName": "FB11-001 Son Goku",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB11-025",
+        "color": "Blue",
+        "cardName": "FB11-025 Trunks : Future",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan / Earthling",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB11-049",
+        "color": "Green",
+        "cardName": "FB11-025 Goku Black",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan",
+        "awakenedPower": "20000"
+    },
+    {
+        "code": "FB11-097",
+        "color": "Black",
+        "cardName": "FB11-097 Bardock",
+        "type": "Leader",
+        "cost": "null",
+        "power": "15000",
+        "traits": "Saiyan / Bardock's Crew",
+        "awakenedPower": "20000"
+    },
+    {
         "code": "FB11-084",
         "color": "Yellow",
         "cardName": "FB11-084 Giblet",
@@ -35,6 +75,60 @@
         "cost": "2",
         "power": "15000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "ST01-011",
+        "color": "Red",
+        "cardName": "ST01-011 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": "3",
+        "power": "25000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-024",
+        "color": "Blue",
+        "cardName": "ST01-024 Son Goku / Vegeta",
+        "type": "Battle",
+        "cost": "3",
+        "power": "20000",
+        "traits": "Saiyan / Another World"
+    },
+    {
+        "code": "ST01-036",
+        "color": "Green",
+        "cardName": "ST01-036 Majin Buu : Evil",
+        "type": "Battle",
+        "cost": "4",
+        "power": "30000",
+        "traits": "Majin / Absorption"
+    },
+    {
+        "code": "ST01-037",
+        "color": "Green",
+        "cardName": "ST01-037 Majin Buu : Kid",
+        "type": "Battle",
+        "cost": "6",
+        "power": "35000",
+        "traits": "Majin"
+    },
+    {
+        "code": "ST01-050",
+        "color": "Yellow",
+        "cardName": "ST01-050 Broly",
+        "type": "Battle",
+        "cost": "6",
+        "power": "40000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "ST01-068",
+        "color": "Black",
+        "cardName": "ST01-068 Prince of Destruction",
+        "type": "Extra",
+        "cost": "1",
+        "power": "",
+        "traits": "Saiyan / Wicked Soul"
     },
     {
         "code": "FB11-091",
@@ -245,7 +339,7 @@
         "traits": "Saiyan / Wicked Soul / Evil Wizard"
     },
     {
-        "code": "FB10-023",
+        "code": "FB10-023-REGIONAL",
         "color": "Red",
         "cardName": "FB10-023 Thanks, Dragon Ball!!!",
         "type": "Extra",
@@ -263,7 +357,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-024-AA",
+        "code": "FB10-024-REGIONAL",
         "color": "Red",
         "cardName": "FB10-024 Super Genki-Dama",
         "type": "Extra",
@@ -308,7 +402,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-009",
+        "code": "FB10-009-REGIONAL",
         "color": "Red",
         "cardName": "FB10-009 Suno",
         "type": "Battle",
@@ -353,7 +447,7 @@
         "traits": "Kai / Another World"
     },
     {
-        "code": "FB10-005",
+        "code": "FB10-005-REGIONAL",
         "color": "Red",
         "cardName": "FB10-005 Krillin",
         "type": "Battle",
@@ -371,7 +465,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-012",
+        "code": "FB10-012-REGIONAL",
         "color": "Red",
         "cardName": "FB10-012 Son Goku : BR",
         "type": "Battle",
@@ -434,7 +528,7 @@
         "traits": "Saiyan / Earthling"
     },
     {
-        "code": "FB10-035",
+        "code": "FB10-035-REGIONAL",
         "color": "Blue",
         "cardName": "FB10-035 Trunks : Future",
         "type": "Battle",
@@ -506,7 +600,7 @@
         "traits": "Saiyan"
     },
     {
-        "code": "FB10-038",
+        "code": "FB10-038-REGIONAL",
         "color": "Blue",
         "cardName": "FB10-038 Vegeta",
         "type": "Battle",
@@ -596,7 +690,7 @@
         "traits": "Saiyan / Potara"
     },
     {
-        "code": "FB10-121-SAA",
+        "code": "FB10-121-REGIONAL",
         "color": "Blue",
         "cardName": "FB10-121 Vegito",
         "type": "Battle",
@@ -641,7 +735,7 @@
         "traits": "Potara"
     },
     {
-        "code": "FB10-045",
+        "code": "FB10-045-REGIONAL",
         "color": "Blue",
         "cardName": "FB10-045 Final Kamehameha",
         "type": "Extra",
@@ -704,7 +798,7 @@
         "traits": "Saiyan / Earthling / Master's Teachings"
     },
     {
-        "code": "FB10-055",
+        "code": "FB10-055-REGIONAL",
         "color": "Green",
         "cardName": "FB10-055 Son Gohan : Childhood",
         "type": "Battle",
@@ -758,7 +852,7 @@
         "traits": "Namekian / God / Master's Teachings"
     },
     {
-        "code": "FB10-067",
+        "code": "FB10-067-REGIONAL",
         "color": "Green",
         "cardName": "FB10-067 Piccolo",
         "type": "Battle",
@@ -830,7 +924,7 @@
         "traits": "Earthling"
     },
     {
-        "code": "FB10-065",
+        "code": "FB10-065-REGIONAL",
         "color": "Green",
         "cardName": "FB10-065 Piccolo",
         "type": "Battle",
@@ -848,7 +942,7 @@
         "traits": "Saiyan / Earthling / Great Ape"
     },
     {
-        "code": "FB10-060",
+        "code": "FB10-060-REGIONAL",
         "color": "Green",
         "cardName": "FB10-060 Son Gohan : Youth",
         "type": "Battle",
@@ -947,7 +1041,7 @@
         "traits": "Boujack Brigade"
     },
     {
-        "code": "FB10-095",
+        "code": "FB10-095-REGIONAL",
         "color": "Yellow",
         "cardName": "FB10-095 Loyal Shield",
         "type": "Extra",
@@ -974,7 +1068,7 @@
         "traits": "Boujack Brigade"
     },
     {
-        "code": "FB10-076",
+        "code": "FB10-076-REGIONAL",
         "color": "Yellow",
         "cardName": "FB10-076 Gokua",
         "type": "Battle",
@@ -992,7 +1086,7 @@
         "traits": "Boujack Brigade"
     },
     {
-        "code": "FB10-085",
+        "code": "FB10-085-REGIONAL",
         "color": "Yellow",
         "cardName": "FB10-085 Bido",
         "type": "Battle",
@@ -1001,7 +1095,7 @@
         "traits": "Boujack Brigade"
     },
     {
-        "code": "FB10-087",
+        "code": "FB10-087-REGIONAL",
         "color": "Yellow",
         "cardName": "FB10-087 Bujin",
         "type": "Battle",
@@ -1064,7 +1158,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-118",
+        "code": "FB10-118-REGIONAL",
         "color": "Black",
         "cardName": "FB10-118 Cell's Kamehameha",
         "type": "Extra",
@@ -1073,7 +1167,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-109",
+        "code": "FB10-109-REGIONAL",
         "color": "Black",
         "cardName": "FB10-109 Cell",
         "type": "Battle",
@@ -1109,7 +1203,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-115",
+        "code": "FB10-115-REGIONAL",
         "color": "Black",
         "cardName": "FB10-115 Son Goku",
         "type": "Battle",
@@ -1145,7 +1239,7 @@
         "traits": "Android"
     },
     {
-        "code": "FB10-101",
+        "code": "FB10-101-REGIONAL",
         "color": "Black",
         "cardName": "FB10-101 Android 17",
         "type": "Battle",
