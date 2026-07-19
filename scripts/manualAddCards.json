@@ -897,6 +897,33 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB11-008",
+        "color": "Red",
+        "cardName": "FB11-008 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-010",
+        "color": "Red",
+        "cardName": "FB11-010 Son Goku",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-011",
+        "color": "Red",
+        "cardName": "FB11-011 Son Goku",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "ST01-039",
         "color": "Green",
         "cardName": "ST01-039 Majin Buu : Kid",
