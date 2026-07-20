@@ -86,6 +86,60 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "ST01-008",
+        "color": "Red",
+        "cardName": "ST01-008 Son Goten / Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": "3",
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-015",
+        "color": "Red",
+        "cardName": "ST01-015 Family Kamehameha",
+        "type": "Extra",
+        "cost": "5",
+        "power": "",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-035",
+        "color": "Blue",
+        "cardName": "FB11-035 Trunks : Future",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-036",
+        "color": "Blue",
+        "cardName": "FB11-036 Trunks : Future",
+        "type": "Battle",
+        "cost": "4",
+        "power": "30000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-057",
+        "color": "Black",
+        "cardName": "ST01-057 Trunks : Youth",
+        "type": "Battle",
+        "cost": "1",
+        "power": "10000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-041",
+        "color": "Blue",
+        "cardName": "FB11-041 Bulma : Future",
+        "type": "Battle",
+        "cost": "1",
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
         "code": "ST01-024",
         "color": "Blue",
         "cardName": "ST01-024 Son Goku / Vegeta",
