@@ -113,6 +113,24 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB11-052",
+        "color": "Green",
+        "cardName": "FB11-052 Goku Black",
+        "type": "Battle",
+        "cost": "1",
+        "power": "5000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-054",
+        "color": "Green",
+        "cardName": "FB11-054 Goku Black",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
         "code": "FB11-036",
         "color": "Blue",
         "cardName": "FB11-036 Trunks : Future",
@@ -364,6 +382,24 @@
         "cost": 2,
         "power": "20000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "ST01-016",
+        "color": "Red",
+        "cardName": "ST01-016 Kamehameha",
+        "type": "Extra",
+        "cost": 2,
+        "power": "",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "ST01-043",
+        "color": "Green",
+        "cardName": "ST01-043 Irrational Destructive Impulse",
+        "type": "Extra",
+        "cost": 2,
+        "power": "",
+        "traits": "Majin"
     },
     {
         "code": "ST01-017",
