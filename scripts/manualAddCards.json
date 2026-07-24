@@ -310,7 +310,7 @@
         "awakenedPower": "20000"
     },
     {
-        "code": "FB05-025-ST01",
+        "code": "FB05-025-ST01-AA",
         "color": "Blue",
         "cardName": "FB05-025 Vegito",
         "type": "Leader",
@@ -320,7 +320,7 @@
         "awakenedPower": "20000"
     },
     {
-        "code": "FB08-073-ST01",
+        "code": "FB08-073-ST01-AA",
         "color": "Yellow",
         "cardName": "FB08-073 Broly",
         "type": "Leader",
