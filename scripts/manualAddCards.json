@@ -771,6 +771,24 @@
         "traits": "Saiyan / Wicked Soul"
     },
     {
+        "code": "ST01-065",
+        "color": "Black",
+        "cardName": "ST01-065 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Wicked Soul"
+    },
+    {
+        "code": "ST01-065-AA",
+        "color": "Black",
+        "cardName": "ST01-065 Vegeta",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Wicked Soul"
+    },
+    {
         "code": "FP-091-WINNER",
         "color": "Blue",
         "cardName": "FP-091 Vegito",
@@ -994,6 +1012,105 @@
         "cost": 1,
         "power": "5000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FP-095",
+        "color": "Yellow",
+        "cardName": "FP-095 Shallot",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-026",
+        "color": "Blue",
+        "cardName": "FB11-026 Android 17",
+        "type": "Battle",
+        "cost": 2,
+        "power": "10000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB11-027",
+        "color": "Blue",
+        "cardName": "FB11-027 Android 18",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB11-040",
+        "color": "Blue",
+        "cardName": "FB11-040 Bulma : Future",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB11-060",
+        "color": "Green",
+        "cardName": "FB11-060 Gowasu",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Supreme Kai"
+    },
+    {
+        "code": "FB11-062",
+        "color": "Green",
+        "cardName": "FB11-062 Zamasu",
+        "type": "Battle",
+        "cost": 1,
+        "power": "5000",
+        "traits": "Supreme Kai"
+    },
+    {
+        "code": "FB11-018",
+        "color": "Red",
+        "cardName": "FB11-018 Trunks : Youth",
+        "type": "Battle",
+        "cost": 2,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-014",
+        "color": "Red",
+        "cardName": "FB11-014 Son Goten",
+        "type": "Battle",
+        "cost": 3,
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-006",
+        "color": "Red",
+        "cardName": "FB11-006 Gotenks",
+        "type": "Battle",
+        "cost": 4,
+        "power": "30000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-104",
+        "color": "Black",
+        "cardName": "FB11-104 Son Goku",
+        "type": "Battle",
+        "cost": 1,
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-112",
+        "color": "Black",
+        "cardName": "FB11-112 Bardock",
+        "type": "Battle",
+        "cost": 3,
+        "power": "25000",
+        "traits": "Saiyan / Bardock's Crew"
     },
     {
         "code": "FB11-010",
