@@ -50,6 +50,105 @@
         "awakenedPower": "20000"
     },
     {
+        "code": "FB11-081",
+        "color": "Yellow",
+        "cardName": "FB11-081 Giblet",
+        "type": "Battle",
+        "cost": "2",
+        "power": "10000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-075",
+        "color": "Yellow",
+        "cardName": "FB11-075 Cabba",
+        "type": "Battle",
+        "cost": "1",
+        "power": "5000",
+        "traits": "Saiyan / Universe 6"
+    },
+    {
+        "code": "FB11-107",
+        "color": "Black",
+        "cardName": "FB11-107 Tora (Great Ape)",
+        "type": "Battle",
+        "cost": "3",
+        "power": "20000",
+        "traits": "Saiyan / Great Ape / Bardock's Crew"
+    },
+    {
+        "code": "FB11-106",
+        "color": "Black",
+        "cardName": "FB11-106 Tora",
+        "type": "Battle",
+        "cost": "2",
+        "power": "10000",
+        "traits": "Saiyan / Bardock's Crew"
+    },
+    {
+        "code": "FB11-016-AA",
+        "color": "Red",
+        "cardName": "FB11-016 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": "5",
+        "power": "30000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-030",
+        "color": "Blue",
+        "cardName": "FB11-030 Son Gohan : Future",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-032-AA",
+        "color": "Blue",
+        "cardName": "FB11-032 Son Gohan : Future",
+        "type": "Battle",
+        "cost": "3",
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-064-AA",
+        "color": "Green",
+        "cardName": "FB11-064 Cell",
+        "type": "Battle",
+        "cost": "3",
+        "power": "25000",
+        "traits": "Android"
+    },
+    {
+        "code": "FB11-094-AA",
+        "color": "Yellow",
+        "cardName": "FB11-094 Bulma",
+        "type": "Battle",
+        "cost": "1",
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB11-105-AA",
+        "color": "Black",
+        "cardName": "FB11-105 Son Goku",
+        "type": "Battle",
+        "cost": "6",
+        "power": "30000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-015",
+        "color": "Red",
+        "cardName": "FB11-015 Son Gohan : Adolescence",
+        "type": "Battle",
+        "cost": "1",
+        "power": "5000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB11-084",
         "color": "Yellow",
         "cardName": "FB11-084 Giblet",
