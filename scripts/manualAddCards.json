@@ -1,6 +1,6 @@
 [
     {
-        "code": "FB11-073",
+        "code": "FB11-073-AA",
         "color": "Yellow",
         "cardName": "FB11-073 Shallet",
         "type": "Leader",
@@ -10,7 +10,7 @@
         "awakenedPower": "20000"
     },
     {
-        "code": "FB11-001",
+        "code": "FB11-001-AA",
         "color": "Red",
         "cardName": "FB11-001 Son Goku",
         "type": "Leader",
@@ -20,7 +20,7 @@
         "awakenedPower": "20000"
     },
     {
-        "code": "FB11-025",
+        "code": "FB11-025-AA",
         "color": "Blue",
         "cardName": "FB11-025 Trunks : Future",
         "type": "Leader",
@@ -30,7 +30,7 @@
         "awakenedPower": "20000"
     },
     {
-        "code": "FB11-049",
+        "code": "FB11-049-AA",
         "color": "Green",
         "cardName": "FB11-025 Goku Black",
         "type": "Leader",
@@ -40,7 +40,7 @@
         "awakenedPower": "20000"
     },
     {
-        "code": "FB11-097",
+        "code": "FB11-097-AA",
         "color": "Black",
         "cardName": "FB11-097 Bardock",
         "type": "Leader",
@@ -104,6 +104,15 @@
         "traits": "Saiyan / Earthling"
     },
     {
+        "code": "FB11-032",
+        "color": "Blue",
+        "cardName": "FB11-032 Son Gohan : Future",
+        "type": "Battle",
+        "cost": "3",
+        "power": "20000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
         "code": "FB11-032-AA",
         "color": "Blue",
         "cardName": "FB11-032 Son Gohan : Future",
@@ -111,6 +120,51 @@
         "cost": "3",
         "power": "20000",
         "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB11-098",
+        "color": "Black",
+        "cardName": "FB11-098 Ipana",
+        "type": "Battle",
+        "cost": "1",
+        "power": "10000",
+        "traits": "Alien"
+    },
+    {
+        "code": "FB11-072",
+        "color": "Green",
+        "cardName": "FB11-072 The Zero Mortal Project",
+        "type": "Extra",
+        "cost": "2",
+        "power": "",
+        "traits": "Saiyan / Supreme Kai"
+    },
+    {
+        "code": "FB11-070",
+        "color": "Green",
+        "cardName": "FB11-070 Beerus",
+        "type": "Battle",
+        "cost": "4",
+        "power": "30000",
+        "traits": "God of Destruction"
+    },
+    {
+        "code": "FB11-065",
+        "color": "Green",
+        "cardName": "FB11-065 Zennoh",
+        "type": "Battle",
+        "cost": "2",
+        "power": "10000",
+        "traits": "Universe"
+    },
+    {
+        "code": "FB11-064",
+        "color": "Green",
+        "cardName": "FB11-064 Cell",
+        "type": "Battle",
+        "cost": "3",
+        "power": "25000",
+        "traits": "Android"
     },
     {
         "code": "FB11-064-AA",
@@ -122,6 +176,24 @@
         "traits": "Android"
     },
     {
+        "code": "FB11-095",
+        "color": "Yellow",
+        "cardName": "FB11-095 Vegeta",
+        "type": "Battle",
+        "cost": "2",
+        "power": "15000",
+        "traits": "Saiyan / Wicked Soul"
+    },
+    {
+        "code": "FB11-094",
+        "color": "Yellow",
+        "cardName": "FB11-094 Bulma",
+        "type": "Battle",
+        "cost": "1",
+        "power": "5000",
+        "traits": "Earthling"
+    },
+    {
         "code": "FB11-094-AA",
         "color": "Yellow",
         "cardName": "FB11-094 Bulma",
@@ -129,6 +201,33 @@
         "cost": "1",
         "power": "5000",
         "traits": "Earthling"
+    },
+    {
+        "code": "FB11-111",
+        "color": "Black",
+        "cardName": "FB11-111 Bardock",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan / Bardock's Crew"
+    },
+    {
+        "code": "FB11-113",
+        "color": "Black",
+        "cardName": "FB11-113 Bardock (Great Ape)",
+        "type": "Battle",
+        "cost": "3",
+        "power": "25000",
+        "traits": "Saiyan / Great Ape / Bardock's Crew"
+    },
+    {
+        "code": "FB11-105",
+        "color": "Black",
+        "cardName": "FB11-105 Son Goku",
+        "type": "Battle",
+        "cost": "6",
+        "power": "30000",
+        "traits": "Saiyan"
     },
     {
         "code": "FB11-105-AA",
@@ -147,6 +246,15 @@
         "cost": "4",
         "power": "20000",
         "traits": "Saiyan"
+    },
+    {
+        "code": "FB11-050",
+        "color": "Green",
+        "cardName": "FB11-050 Whis",
+        "type": "Battle",
+        "cost": "3",
+        "power": "25000",
+        "traits": "Angel"
     },
     {
         "code": "FB11-067",
@@ -653,6 +761,15 @@
         "traits": ""
     },
     {
+        "code": "FB11-079",
+        "color": "Yellow",
+        "cardName": "FB11-079 Zahha",
+        "type": "Battle",
+        "cost": "5",
+        "power": "35000",
+        "traits": ""
+    },
+    {
         "code": "FB11-090",
         "color": "Yellow",
         "cardName": "FB11-090 Son Goku",
@@ -752,6 +869,87 @@
         "power": "15000",
         "traits": "Saiyan",
         "awakenedPower": "20000"
+    },
+    {
+        "code": "FB10-004",
+        "color": "Red",
+        "cardName": "FB11-004 Great Saiyaman 2",
+        "type": "Battle",
+        "cost": "7",
+        "power": "15000",
+        "traits": "Earthling"
+    },
+    {
+        "code": "FB10-115",
+        "color": "Black",
+        "cardName": "FB10-115 Son Goku",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan / Planet Namek"
+    },
+    {
+        "code": "FB11-115",
+        "color": "Black",
+        "cardName": "FB11-115 Bardock's Crew",
+        "type": "Battle",
+        "cost": "7",
+        "power": "15000",
+        "traits": "Saiyan / Bardock's Crew"
+    },
+    {
+        "code": "FB10-058",
+        "color": "Green",
+        "cardName": "FB11-058 Goku Black",
+        "type": "Battle",
+        "cost": "7",
+        "power": "15000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-093",
+        "color": "Yellow",
+        "cardName": "FB11-093 Beerus",
+        "type": "Battle",
+        "cost": "7",
+        "power": "15000",
+        "traits": "God of Destruction / Universe 7"
+    },
+    {
+        "code": "FB10-031",
+        "color": "Blue",
+        "cardName": "FB11-031 Son Gohan : Future",
+        "type": "Battle",
+        "cost": "7",
+        "power": "15000",
+        "traits": "Saiyan / Earthling"
+    },
+    {
+        "code": "FB10-021",
+        "color": "Red",
+        "cardName": "FB11-021 Vegeta",
+        "type": "Battle",
+        "cost": "1",
+        "power": "15000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-022",
+        "color": "Red",
+        "cardName": "FB11-022 Vegeta",
+        "type": "Battle",
+        "cost": "3",
+        "power": "25000",
+        "traits": "Saiyan"
+    },
+    {
+        "code": "FB10-028",
+        "color": "Blue",
+        "cardName": "FB11-028 Son Goku",
+        "type": "Battle",
+        "cost": "2",
+        "power": "20000",
+        "traits": "Saiyan"
     },
     {
         "code": "FB10-025-AA",
@@ -2245,5 +2443,23 @@
         "cost": 4,
         "power": "20000",
         "traits": "First Demon World / Third Demon World / Demon Realm"    
+    },
+    {
+        "code": "FB11-118",
+        "color": "Black",
+        "cardName": "FB11-118 Solitary Avenger",
+        "type": "Extra",
+        "cost": 4,
+        "power": "",
+        "traits": "Saiyan / Bardock's Crew"
+    },
+    {
+        "code": "FB11-120",
+        "color": "Black",
+        "cardName": "FB11-120 Rebellious Saiyan",
+        "type": "Extra",
+        "cost": 2,
+        "power": "",
+        "traits": "Saiyan / Bardock's Crew"
     }
 ]
